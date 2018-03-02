@@ -1,4 +1,4 @@
-Code NMD Express React Boilerplate
+Trots RESTful API
 ==================================
 
 :thumbsup: `Graphics` :heart: `Code`  
@@ -13,6 +13,41 @@ Information
 - Express
 - React
 - Semantic-UI
+
+Installation and setup
+-----------
+
+Clone the repository
+
+```
+git clone https://github.com/manatran/trots-api.git
+```
+
+Navigate into the directory
+
+```
+cd trots-api
+```
+
+Install the dependencies
+
+```
+npm install
+```
+
+Run the Node.js server using the globally installed nodemon module
+
+```
+npm install -g nodemon
+nodemon
+```
+
+To start the frontend, navigate into the client/src folder and start the server
+
+```
+cd client/src
+npm start
+```
 
 Contact
 -------
