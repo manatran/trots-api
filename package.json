@@ -1,0 +1,34 @@
+{
+  "name": "nmd-express-boilerplate",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "cuid": "^2.0.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "joi": "^13.1.2",
+    "mongoose": "^5.0.3",
+    "morgan": "^1.9.0",
+    "sanitize-html": "^1.17.0",
+    "slugify": "^1.2.9"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-ava": "^4.5.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.1",
+    "nodemon": "^1.14.12"
+  },
+  "scripts": {
+    "start": "echo 'Project started in production mode' & node server.js",
+    "start-dev": "echo 'Project started in development mode' & nodemon --config nodemon.json server.js",
+    "lint": "eslint server.js seeddb.js server"
+  }
+}
