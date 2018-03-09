@@ -1,6 +1,7 @@
-const express = require('express');
-const v3Routes = require('./v3/v3.routes');
+import express from 'express';
+import v1Routes from './v1/v1.routes';
 
 const router = express.Router();
-router.use('/v3', v3Routes);
+router.use('/v1', v1Routes);
+
 module.exports = router;

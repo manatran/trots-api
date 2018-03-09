@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+import mongoose from 'mongoose';
 
 //City Schema
 let citySchema = mongoose.Schema({

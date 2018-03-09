@@ -1,14 +1,14 @@
-const Project = require('../models/project.model');
-const cuid = require('cuid');
-const slugify = require('slugify');
-const sanitizeHtml = require('sanitize-html');
+import Project from '../models/project.model';
+import cuid from 'cuid';
+import slugify from 'slugify';
+import sanitizeHtml from 'sanitize-html';
 
 //related schemas
-let Course = require('../models/course.model')
-let User = require('../models/user.model')
-let Media = require('../models/media.model')
-let Tag = require('../models/tag.model')
-let Tool = require('../models/tool.model')
+import Course from '../models/course.model';
+import User from '../models/user.model';
+import Media from '../models/media.model';
+import Tag from '../models/tag.model';
+import Tool from '../models/tool.model';
 
 /**
  * Get all projects

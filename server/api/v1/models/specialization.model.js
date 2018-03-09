@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+import mongoose from 'mongoose';
 
 //Specialization Schema
 let specializationSchema = mongoose.Schema({

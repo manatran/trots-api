@@ -1,14 +1,12 @@
-const http = require('http');
-const path = require('path');
-const express = require('express');
-const bodyParser = require('body-parser');
-const mongoose = require('mongoose');
-const logger = require('morgan');
-const cors = require('cors');
+import path from 'path';
+import express from 'express';
+import bodyParser from 'body-parser';
+import mongoose from 'mongoose';
+import logger from 'morgan';
+import cors from 'cors';
 require('dotenv').config();
-
-const settings = require('./server/config/settings');
-const apiRoutes = require('./server/api/api.routes');
+import settings from './server/config/settings';
+import apiRoutes from './server/api/api.routes'
 
 // Settings
 const port = process.env.PORT || 5000;
@@ -41,8 +39,8 @@ app.use((err, req, res) => {
   res.status(err.status || 500);
   res.send('error');
 });
-const server = http.createServer(app);
-server.listen(port, (error) => {
+
+app.listen(port, (error) => {
   if (!error) {
     console.log(`Server is running on port: ${port}! Build something amazing!`);
   }

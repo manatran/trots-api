@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+import mongoose from 'mongoose';
 
 //Tag Schema
 let tagSchema = mongoose.Schema({

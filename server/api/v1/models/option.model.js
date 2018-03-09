@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+import mongoose from 'mongoose';
 
 //Option Schema
 let optionSchema = mongoose.Schema({

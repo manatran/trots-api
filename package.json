@@ -17,7 +17,11 @@
     "slugify": "^1.2.9"
   },
   "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
     "eslint": "^4.17.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-ava": "^4.5.0",
@@ -28,7 +32,7 @@
   },
   "scripts": {
     "start": "echo 'Project started in production mode' & node server.js",
-    "start-dev": "echo 'Project started in development mode' & nodemon --config nodemon.json server.js",
+    "start-dev": "echo 'Project started in development mode' & nodemon --config nodemon.json server.js --exec babel-node --presets es2015,stage-2",
     "lint": "eslint server.js seeddb.js server"
   }
 }

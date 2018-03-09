@@ -1,12 +1,4 @@
-const mongoose = require('mongoose')
-
-//import related schemas
-let Course = require('./course.model')
-let Lecturer = require('./lecturer.model')
-let Student = require('./student.model')
-let Media = require('./media.model')
-let Tag = require('./tag.model')
-let Tool = require('./tool.model')
+import mongoose from 'mongoose';
 
 //Project Schema
 let projectSchema = mongoose.Schema({
@@ -42,7 +34,7 @@ let projectSchema = mongoose.Schema({
     creators: [
         {
             type: mongoose.Schema.ObjectId,
-            ref: 'Student'
+            ref: 'User'
         }
     ],
     media: [

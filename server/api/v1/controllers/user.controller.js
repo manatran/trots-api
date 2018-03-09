@@ -1,32 +1,162 @@
-const Student = require('../models/student.model');
-const cuid = require('cuid');
-const slugify = require('slugify');
-const sanitizeHtml = require('sanitize-html');
+import User from '../models/user.model';
+import cuid from 'cuid';
+import slugify from 'slugify';
+import sanitizeHtml from 'sanitize-html';
+import bcrypt from 'bcryptjs';
+import mongoose from 'mongoose';
+
+//related schemas
+import City from '../models/city.model';
+import Specialization from '../models/specialization.model';
+import Tag from '../models/tag.model';
+import SocialMedia from '../models/socialmedia.model';
+import Option from '../models/option.model';
 
 /**
- * Get hello
+ * Get all Users
  * @param req
  * @param res
  * @returns void
  */
-function getUsers(req, res) {
-  res.json({ message: 'Welcome to New Media Development!' });
+function getUsers(req, res){
+	User.find().populate(['hometown','specialization', 'tags','social_media']).populate({
+			path: 'specialization',
+			populate: {
+				path: 'option',
+				model: 'Option'
+			}
+	})
+	.exec((err, users) => {
+		if (err) {
+			res.status(500).send(err);
+		}
+
+		res.json(users);
+	});
 }
-module.exports.getHello = getHello;
+
+module.exports.getUsers = getUsers;
+
 
 /**
- * Get hello
+ * Get user by id
  * @param req
  * @param res
  * @returns void
  */
-function getLecturers(req, res) {
-  res.json([
-    { firstname: 'Philippe', lastname: 'De Pauw - Waterschoot' },
-    { firstname: 'Dieter', lastname: 'De Weirdt' },
-    { firstname: 'Olivier', lastname: 'Parent' },
-    { firstname: 'Evelien', lastname: 'Rutsaert' },
-  ]);
+function getUserById(req, res) {
+	User.findOne({ _id: req.params.id }).populate(['hometown','specialization','tags','social_media','option']).populate({
+		path: 'specialization',
+		populate: {
+			path: 'option',
+			model: 'Option'
+		}
+	})
+	.exec((err, user) => {
+		if (err) {
+			res.status(500).send(err);
+		}
+		res.json(user);
+	});
 }
-module.exports.getLecturers = getLecturers;
 
+module.exports.getUserById = getUserById;
+
+
+/**
+ * Get users by type
+ * @param req
+ * @param res
+ * @returns void
+ */
+function getUsersByType(req, res) {
+	User.find({ type: req.params.type }).populate(['hometown','specialization','tags','social_media','option']).populate({
+		path: 'specialization',
+		populate: {
+				path: 'option',
+				model: 'Option'
+		}
+	})
+	.exec((err, user) => {
+		if (err) {
+			res.status(500).send(err);
+		}
+		res.json(user);
+	});
+}
+
+module.exports.getUsersByType = getUsersByType;
+
+
+/**
+ * Save a user
+ * @param req
+ * @param res
+ * @returns void
+ */
+function addUser(req, res) {
+	console.log(req.body.username)
+  if (!req.body.username || !req.body.password || !req.body.type) {
+    res.status(403).end();
+  }
+
+  const newUser = new User(req.body);
+
+  // Let's sanitize inputs and hash password
+  bcrypt.genSalt(10, function(err,salt){
+		bcrypt.hash(sanitizeHtml(newUser.password), salt, function(err, hash){
+			newUser.password = hash;
+			newUser.save((err, saved) => {
+				if (err) {
+					res.status(500).send(err);
+				}
+				res.json({ user: saved });
+			});
+		})
+	})  
+}
+
+module.exports.addUser = addUser;
+
+
+/**
+ * Edit user
+ * @param req
+ * @param res
+ * @returns void
+ */
+function editUser(req, res) {
+	User.findOneAndUpdate({ _id: req.params.id },req.body)
+	.exec((err, user) => {
+    if (err) {
+      res.status(500).send(err);
+    }
+
+    res.json({ user });
+		
+  });
+}
+
+module.exports.editUser = editUser;
+
+
+/**
+ * Delete user
+ * @param req
+ * @param res
+ * @returns void
+ */
+function deleteUser(req, res) {
+  User.findOne({ _id: req.params.id }).exec((err, user) => {
+    if (err) {
+      res.status(500).send(err);
+    }
+
+    user.remove(() => {
+      res.status(200).end();
+		});
+		
+  });
+}
+
+module.exports.deleteUser = deleteUser;

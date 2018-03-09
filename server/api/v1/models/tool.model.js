@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+import mongoose from 'mongoose';
 
 //Tool Schema
 let toolSchema = mongoose.Schema({
