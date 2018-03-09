@@ -3,7 +3,7 @@ import cuid from 'cuid';
 import slugify from 'slugify';
 import sanitizeHtml from 'sanitize-html';
 
-//related schemas
+// Related schemas
 import Course from '../models/course.model';
 import User from '../models/user.model';
 import Media from '../models/media.model';
@@ -20,19 +20,19 @@ function getProjects(req, res) {
 	Project.find().populate(['course', 'creators', 'media', 'tags', 'tools']).populate({
 		path: 'course',
 		populate: {
-				path: 'lecturers',
-				model: 'User'
-		}
+			path: 'lecturers',
+			model: 'User',
+		},
 	}).populate({
 		path: 'creators',
 		populate: {
 			path: 'specialization',
 			model: 'Specialization',
 			populate: {
-					path: 'option',
-					model: 'Option'
-			}
-		}
+				path: 'option',
+				model: 'Option',
+			},
+		},
 	})
 	.exec((err, projects) => {
 		if (err) {
@@ -56,18 +56,18 @@ function getProjectById(req, res) {
 		path: 'course',
 		populate: {
 			path: 'lecturers',
-			model: 'User'
-		}
+			model: 'User',
+		},
 	}).populate({
-	path: 'creators',
-	populate: {
-		path: 'specialization',
-		model: 'Specialization',
+		path: 'creators',
 		populate: {
+			path: 'specialization',
+			model: 'Specialization',
+			populate: {
 				path: 'option',
-				model: 'Option'
-			}
-		}
+				model: 'Option',
+			},
+		},
 	})
 	.exec((err, project) => {
 		if (err) {
@@ -91,8 +91,8 @@ function getProjectsByType(req, res) {
 		path: 'course',
 		populate: {
 			path: 'lecturers',
-			model: 'User'
-		}
+			model: 'User',
+		},
 	}).populate({
 		path: 'creators',
 		populate: {
@@ -100,9 +100,9 @@ function getProjectsByType(req, res) {
 			model: 'Specialization',
 			populate: {
 				path: 'option',
-				model: 'Option'
-			}
-		}
+				model: 'Option',
+			},
+		},
 	})
 	.exec((err, project) => {
 		if (err) {
@@ -153,7 +153,6 @@ function editProject(req, res) {
     }
 
     res.json({ project });
-		
   });
 }
 
@@ -175,7 +174,6 @@ function deleteProject(req, res) {
     project.remove(() => {
       res.status(200).end();
 		});
-		
   });
 }
 

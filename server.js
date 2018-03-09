@@ -4,9 +4,9 @@ import bodyParser from 'body-parser';
 import mongoose from 'mongoose';
 import logger from 'morgan';
 import cors from 'cors';
+import apiRoutes from './server/api/api.routes';
+
 require('dotenv').config();
-import settings from './server/config/settings';
-import apiRoutes from './server/api/api.routes'
 
 // Settings
 const port = process.env.PORT || 5000;

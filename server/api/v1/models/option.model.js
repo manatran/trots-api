@@ -1,20 +1,20 @@
 import mongoose from 'mongoose';
 
-//Option Schema
-let optionSchema = mongoose.Schema({
-    name: {
-        type: String,
-        required: true
-    },
-    abbreviation: {
-        type: String,
-        required: true
-    },
-    description: {
-        type: String,
-        required: true
-    }
-})
+// Option Schema
+const optionSchema = mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  abbreviation: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+    required: true,
+  },
+});
 
 
-let Option = module.exports = mongoose.model('Option', optionSchema)
+const Option = module.exports = mongoose.model('Option', optionSchema);

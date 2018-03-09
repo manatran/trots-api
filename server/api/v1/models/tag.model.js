@@ -1,16 +1,16 @@
 import mongoose from 'mongoose';
 
-//Tag Schema
-let tagSchema = mongoose.Schema({
-    name: {
-        type: String,
-        required: true
-    },
-    description: {
-        type: String,
-        required: true
-    }
-})
+// Tag Schema
+const tagSchema = mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+    required: true,
+  },
+});
 
 
-let Tag = module.exports = mongoose.model('Tag', tagSchema)
+const Tag = module.exports = mongoose.model('Tag', tagSchema);

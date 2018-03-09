@@ -1,24 +1,24 @@
 import mongoose from 'mongoose';
 
-//Specialization Schema
-let specializationSchema = mongoose.Schema({
-    name: {
-        type: String,
-        required: true
-    },
-    abbreviation: {
-        type: String,
-        required: true
-    },
-    description: {
-        type: String,
-        required: true
-    },
-    option: {
-        type: mongoose.Schema.ObjectId,
-        ref: 'Option'
-    }
-})
+// Specialization Schema
+const specializationSchema = mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  abbreviation: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+    required: true,
+  },
+  option: {
+    type: mongoose.Schema.ObjectId,
+    ref: 'Option',
+  },
+});
 
 
-let Specialization = module.exports = mongoose.model('Specialization', specializationSchema)
+const Specialization = module.exports = mongoose.model('Specialization', specializationSchema);

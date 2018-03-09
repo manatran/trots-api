@@ -11,8 +11,8 @@ console.log('This script populates some test posts to your database. Specified d
 // Get arguments passed on command line
 const userArgs = process.argv.slice(2);
 if (!userArgs[0].startsWith('mongodb://')) {
-    console.log('ERROR: You need to specify a valid mongodb URL as the first argument');
-    return;
+  console.log('ERROR: You need to specify a valid mongodb URL as the first argument');
+  return;
 }
 
 const mongoDB = userArgs[0];
@@ -36,7 +36,7 @@ function postCreate(title, synopsis, body, cb) {
   newPost.content = sanitizeHtml(newPost.body);
   newPost.slug = slugify(newPost.title.toLowerCase());
   newPost.cuid = cuid();
-       
+
   newPost.save(err => {
     if (err) {
       cb(err, null);
@@ -49,24 +49,24 @@ function postCreate(title, synopsis, body, cb) {
 }
 
 function createPosts(cb) {
-    async.parallel([
-        function(callback) {
-          postCreate('Patrick', 'Rothfuss', '1973-06-06', callback);
-        }
-        ],
-        // optional callback
-        cb);
+  async.parallel([
+      (callback) => {
+        postCreate('Patrick', 'Rothfuss', '1973-06-06', callback);
+      },
+    ],
+    // optional callback
+    cb);
 }
 
 // Seed all objects in serie
 async.series([
-    createPosts
-],
-// Optional callback
-function(err, results) {
+    createPosts,
+  ],
+  // Optional callback
+  (err, results) => {
     if (err) {
-        console.log(`FINAL ERR: ${err}`);
+      console.log(`FINAL ERR: ${err}`);
     }
     // All done, disconnect from database
     mongoose.connection.close();
-});
+  });

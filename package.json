@@ -31,7 +31,7 @@
     "nodemon": "^1.14.12"
   },
   "scripts": {
-    "start": "echo 'Project started in production mode' & node server.js",
+    "start": "echo 'Project started in production mode' & babel-node server.js --presets es2015,stage-2",
     "start-dev": "echo 'Project started in development mode' & nodemon --config nodemon.json server.js --exec babel-node --presets es2015,stage-2",
     "lint": "eslint server.js seeddb.js server"
   }

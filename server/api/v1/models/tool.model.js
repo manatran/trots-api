@@ -1,20 +1,20 @@
 import mongoose from 'mongoose';
 
-//Tool Schema
-let toolSchema = mongoose.Schema({
-    name: {
-        type: String,
-        required: true
-    },
-    description: {
-        type: String,
-        required: true
-    },
-    version: {
-        type: String,
-        required: true
-    }
-})
+// Tool Schema
+const toolSchema = mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+    required: true,
+  },
+  version: {
+    type: String,
+    required: true,
+  },
+});
 
 
-let Tool = module.exports = mongoose.model('Tool', toolSchema)
+const Tool = module.exports = mongoose.model('Tool', toolSchema);
