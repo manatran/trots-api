@@ -17,12 +17,10 @@ let userSchema = mongoose.Schema({
 			type: String
 		},
 		username: {
-			type: String,
-			required: true
+			type: String
 		},
 		password: {
-			type: String,
-			required: true
+			type: String
 		},
 		student_number: {
 			type: String
@@ -30,9 +28,11 @@ let userSchema = mongoose.Schema({
 		picture: {
 			type: String
 		},
-		hometown: {
-			type: mongoose.Schema.ObjectId,
-			ref: 'City'
+		city: {
+			type: String
+		},
+		postal_code: {
+			type: String
 		},
 		bio: {
 			type: String
@@ -40,10 +40,9 @@ let userSchema = mongoose.Schema({
 		quote: {
 			type: String
 		},
-		prefferred_regions: [
+		preferred_regions: [
 			{
-				type: mongoose.Schema.ObjectId,
-				ref: 'City'
+				type: String
 			}
 		],
 		specialization: {

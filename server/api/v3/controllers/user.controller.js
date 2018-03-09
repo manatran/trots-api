@@ -3,6 +3,7 @@ const cuid = require('cuid');
 const slugify = require('slugify');
 const sanitizeHtml = require('sanitize-html');
 const bcrypt = require('bcryptjs');
+const mongoose = require('mongoose');
 
 //related schemas
 let City = require('../models/city.model')
@@ -18,7 +19,7 @@ let Option = require('../models/option.model')
  * @returns void
  */
 function getUsers(req, res){
-	User.find().populate(['hometown','prefferred_regions','specialization', 'tags','social_media']).populate({
+	User.find().populate(['hometown','specialization', 'tags','social_media']).populate({
 			path: 'specialization',
 			populate: {
 				path: 'option',
@@ -44,7 +45,7 @@ module.exports.getUsers = getUsers;
  * @returns void
  */
 function getUserById(req, res) {
-	User.findOne({ _id: req.params.id }).populate(['hometown','prefferred_regions','specialization','tags','social_media','option']).populate({
+	User.findOne({ _id: req.params.id }).populate(['hometown','specialization','tags','social_media','option']).populate({
 		path: 'specialization',
 		populate: {
 			path: 'option',
@@ -69,7 +70,7 @@ module.exports.getUserById = getUserById;
  * @returns void
  */
 function getUsersByType(req, res) {
-	User.find({ type: req.params.type }).populate(['hometown','prefferred_regions','specialization','tags','social_media','option']).populate({
+	User.find({ type: req.params.type }).populate(['hometown','specialization','tags','social_media','option']).populate({
 		path: 'specialization',
 		populate: {
 				path: 'option',
