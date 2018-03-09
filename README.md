@@ -1,11 +1,6 @@
 Trots RESTful API
 ==================================
 
-:thumbsup: `Graphics` :heart: `Code`  
-`Make cool` :poop:
-
-> We're **New Media Development**. We educate future talents in **Application Development** and **Design**.
-
 Information
 -----------
 
