@@ -19,7 +19,7 @@ const courseSchema = mongoose.Schema({
     required: true,
   },
   lecturers: [{
-    type: mongoose.Schema.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'User',
   }],
 });

@@ -44,15 +44,15 @@ const userSchema = mongoose.Schema({
     type: String,
   }],
   specialization: {
-    type: mongoose.Schema.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'Specialization',
   },
   tags: [{
-    type: mongoose.Schema.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'Tag',
   }],
   social_media: [{
-    type: mongoose.Schema.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'SocialMedia',
   }],
 });

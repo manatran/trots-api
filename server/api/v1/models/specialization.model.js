@@ -15,7 +15,7 @@ const specializationSchema = mongoose.Schema({
     required: true,
   },
   option: {
-    type: mongoose.Schema.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'Option',
   },
 });

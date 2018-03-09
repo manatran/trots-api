@@ -12,6 +12,8 @@ import Tag from '../models/tag.model';
 import SocialMedia from '../models/socialmedia.model';
 import Option from '../models/option.model';
 
+//const ObjectId = mongoose.Types.ObjectId();
+
 /**
  * Get all users
  * @param req
@@ -25,7 +27,8 @@ function getUsers(req, res) {
         path: 'option',
         model: 'Option',
       },
-    })
+		})
+		.sort('name')
     .exec((err, users) => {
       if (err) {
         res.status(500).send(err);
@@ -80,7 +83,8 @@ function getUsersByType(req, res) {
         path: 'option',
         model: 'Option',
       },
-    })
+		})
+		.sort('name')
     .exec((err, user) => {
       if (err) {
         res.status(500).send(err);
@@ -90,6 +94,36 @@ function getUsersByType(req, res) {
 }
 
 module.exports.getUsersByType = getUsersByType;
+
+
+/**
+ * Get users by specialization
+ * @param req
+ * @param res
+ * @returns void
+ *
+function getUsersBySpecialization(req, res) {
+	console.log(req.params.specialization)
+  User.find({
+		specialization: req.params.specialization,
+    }).populate(['hometown', 'specialization', 'tags', 'social_media', 'option']).populate({
+      path: 'specialization',
+      populate: {
+        path: 'option',
+        model: 'Option',
+      },
+		})
+		.sort('name')
+    .exec((err, user) => {
+      if (err) {
+        res.status(500).send(err);
+      }
+      res.json(user);
+    });
+}
+
+module.exports.getUsersBySpecialization = getUsersBySpecialization;
+*/
 
 
 /**
