@@ -44,7 +44,7 @@ const userSchema = mongoose.Schema({
     type: String,
   }],
   specialization: {
-    type: mongoose.Schema.Types.ObjectId,
+    type: String, // Have to use String or query by Specialization doesn't work
     ref: 'Specialization',
   },
   tags: [{

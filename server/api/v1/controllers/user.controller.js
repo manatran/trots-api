@@ -101,9 +101,8 @@ module.exports.getUsersByType = getUsersByType;
  * @param req
  * @param res
  * @returns void
- *
+ */
 function getUsersBySpecialization(req, res) {
-	console.log(req.params.specialization)
   User.find({
 		specialization: req.params.specialization,
     }).populate(['hometown', 'specialization', 'tags', 'social_media', 'option']).populate({
@@ -123,7 +122,6 @@ function getUsersBySpecialization(req, res) {
 }
 
 module.exports.getUsersBySpecialization = getUsersBySpecialization;
-*/
 
 
 /**

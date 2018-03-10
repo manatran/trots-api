@@ -13,7 +13,7 @@ router.route('/project/:id').delete(ProjectController.deleteProject);
 router.route('/users').get(UserController.getUsers);
 router.route('/user/:id').get(UserController.getUserById);
 router.route('/users/:type').get(UserController.getUsersByType);
-//router.route('/users/specialization/:specialization').get(UserController.getUsersBySpecialization);
+router.route('/users/specialization/:specialization').get(UserController.getUsersBySpecialization);
 router.route('/users').post(UserController.addUser);
 router.route('/user/:id').put(UserController.editUser);
 router.route('/user/:id').delete(UserController.deleteUser);
