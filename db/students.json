@@ -22,7 +22,7 @@
 	"city": "Kluizen",
 	"postal_code": "9940",
 	"quote": "Pluk de dag!",
-	"preferred_regions": "Oost-Vlaanderen, West-Vlaanderen",
+	"preferred_regions": ["Oost-Vlaanderen", "West-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fflorpluq.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -35,7 +35,7 @@
 	"personal_email": "Jonatan.moerman@gmail.com",
 	"city": "Oostakker",
 	"postal_code": "9041",
-	"preferred_regions": "audiovisuele sector",
+	"preferred_regions": ["audiovisuele sector"],
 	"quote": "My mama always said \"Life is like a chocolate box. You never know what you gonna get\"",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonamoer.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -50,9 +50,8 @@
 	"city": "Houthulst",
 	"postal_code": "8650",
 	"quote": "If the plan doesn't work change the plan but never the goal",
-	"preferred_regions": "Houthulst, Diksmuide, Roeselare, Ieper",
-	"specialization": "5a7333dad0eddd9838f18dae",
-	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fundefined?alt=media"
+	"preferred_regions": ["Houthulst", "Diksmuide", "Roeselare", "Ieper"],
+	"specialization": "5a7333dad0eddd9838f18dae"
 }, {
 	"type": "student",
 	"first_name": "Hannes",
@@ -77,7 +76,7 @@
 	"city": "Zwevegem",
 	"postal_code": "8550",
 	"quote": "“At the end of the day, we can endure much more than we think we can.” — Frida Kahlo",
-	"preferred_regions": "Gent, Brussel, Antwerpen",
+	"preferred_regions": ["Gent", "Brussel", "Antwerpen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flouivand14.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -88,7 +87,7 @@
 	"student_number": "86663",
 	"ahs_email": "pietvlem@student.arteveldehs.be",
 	"personal_email": "pieter.vlem@gmail.com",
-	"preferred_regions": "Oost-vlaanderen",
+	"preferred_regions": ["Oost-vlaanderen"],
 	"quote": "Stackoverflow did this",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpietvlem.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
@@ -112,7 +111,7 @@
 	"ahs_email": "marivanl@student.arteveldehs.be",
 	"personal_email": "marie.vlanduyt@gmail.com",
 	"quote": "Have the courage to live the life you want to.",
-	"preferred_regions": "Gent, London, Berlin, Zürich, Toronto",
+	"preferred_regions": ["Gent", "London", "Berlin", "Zürich", "Toronto"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarivanl.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -126,7 +125,7 @@
 	"city": "Deerlijk",
 	"postal_code": "8540",
 	"quote": "Say yes to new adventures.",
-	"preferred_regions": "Kortrijk, Waregem",
+	"preferred_regions": ["Kortrijk", "Waregem"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannloos.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -140,7 +139,7 @@
 	"city": "Roeselare",
 	"postal_code": "8800",
 	"quote": "“IF IT CAN BE WRITTEN OR THOUGHT, IT CAN BE FILMED” – Stanley Kubrick",
-	"preferred_regions": "Roeselare, Brugge, Izegem, Kortrijk",
+	"preferred_regions": ["Roeselare", "Brugge", "Izegem", "Kortrijk"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoravanh1.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -166,7 +165,7 @@
 	"personal_email": "lottepothe@hotmail.com",
 	"city": "Kruishoutem",
 	"postal_code": "9770",
-	"preferred_regions": "Oost-Vlaanderen, West-Vlaanderen",
+	"preferred_regions": ["Oost-Vlaanderen", "West-Vlaanderen"],
 	"quote": "Be good to people for no reason. ",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottpoth.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -180,7 +179,7 @@
 	"personal_email": "yentl1997@live.be",
 	"city": "Brugge",
 	"postal_code": "8000",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
 	"quote": "I got 99 problems but school ain't one.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyentlong.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -194,7 +193,7 @@
 	"personal_email": "Hoffelinck.eveline@proximus.be ",
 	"city": "Belsele (Sint-Niklaas) ",
 	"postal_code": "9111",
-	"preferred_regions": "Antwerpen, Gent, Sint-Niklaas",
+	"preferred_regions": ["Antwerpen", "Gent", "Sint-Niklaas"],
 	"quote": "I'm always in for a pizza",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevelhoff.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -209,7 +208,7 @@
 	"city": "Gent",
 	"postal_code": "9030",
 	"quote": "Tomorrow (n.) • The best time to do everything you had planned for today.",
-	"preferred_regions": "Oost-Vlaanderen",
+	"preferred_regions": ["Oost-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottdesw.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -222,7 +221,7 @@
 	"personal_email": "orlane.demeyere@hotmail.com",
 	"city": "Loppem",
 	"postal_code": "8210",
-	"preferred_regions": "Brugge",
+	"preferred_regions": ["Brugge"],
 	"quote": "the earth without 'art' is just 'eh'",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Forlademe.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -237,7 +236,7 @@
 	"city": "Ellezelles",
 	"postal_code": "7890",
 	"quote": "It always seems impossible until it's done",
-	"preferred_regions": "Gent, Brussel",
+	"preferred_regions": ["Gent", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulicamb.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
 }, {
@@ -250,7 +249,7 @@
 	"personal_email": "janneke_molem@hotmail.com",
 	"city": "Aalst",
 	"postal_code": "9300",
-	"preferred_regions": "Aalst, Gent ",
+	"preferred_regions": ["Aalst", "Gent "],
 	"quote": "Ik ben maar weer opgestaan want dat slapend rijk worden is me vannacht weer niet gelukt. ",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjannmole.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
@@ -277,7 +276,7 @@
 	"city": "Bever",
 	"postal_code": "1547",
 	"quote": "The sun will rise and I will try again",
-	"preferred_regions": "Vlaamse Ardennen, Halle, Brussel",
+	"preferred_regions": ["Vlaamse Ardennen", "Halle", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkaatcrap.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -290,7 +289,7 @@
 	"city": "Nieuwpoort",
 	"postal_code": "8670",
 	"quote": "An  a day keeps the doctor away.",
-	"preferred_regions": "Brugge",
+	"preferred_regions": ["Brugge"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsennvanf.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -303,7 +302,7 @@
 	"personal_email": "vanspeybroeck.sofie@hotmail.be",
 	"city": "Deinze",
 	"postal_code": "9800",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"quote": "Perseverance, secret of all triumphs.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivans2.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -318,7 +317,7 @@
 	"city": "Bredene",
 	"postal_code": "8450",
 	"quote": "Be scared and do it anyway",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frietvanh.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -332,7 +331,7 @@
 	"city": "Zwevegem",
 	"postal_code": "8550",
 	"quote": "Only dead fish go with the flow",
-	"preferred_regions": "Kortrijk, Roeselare, Gent",
+	"preferred_regions": ["Kortrijk", "Roeselare", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromyamer.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -345,7 +344,7 @@
 	"personal_email": "step.dm@hotmail.com",
 	"city": "Eeklo",
 	"postal_code": "9900",
-	"preferred_regions": "Meetjesland, Gent, Brugge",
+	"preferred_regions": ["Meetjesland", "Gent", "Brugge"],
 	"quote": "Life without cake is like cake without chocolate",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepdemu.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -372,7 +371,7 @@
 	"city": "Zottegem ",
 	"postal_code": "9620",
 	"quote": "And so the adventure begins.",
-	"preferred_regions": "Gent, Zottegem, Brussel ",
+	"preferred_regions": ["Gent", "Zottegem", "Brussel "],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgerbdesm.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -399,7 +398,7 @@
 	"city": "Houthulst - Merkem",
 	"postal_code": "8650",
 	"quote": "The way to get started is to quit talking and begin doing!",
-	"preferred_regions": "Roeselare, Ieper, Brugge, Diksmuide",
+	"preferred_regions": ["Roeselare", "Ieper", "Brugge", "Diksmuide"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannevanh8.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -413,7 +412,7 @@
 	"city": "Mechelen ",
 	"postal_code": "2800",
 	"quote": "Lorem Ipsum",
-	"preferred_regions": "Antwerpen,Mechelen ",
+	"preferred_regions": ["Antwerpen", "Mechelen "],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felkeborr.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -427,7 +426,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "Life is made of small moments like this",
-	"preferred_regions": "Gent, Gentbrugge, Wetteren, Sint-Martens-Latem, Lochristi, Melle",
+	"preferred_regions": ["Gent", "Gentbrugge", "Wetteren", "Sint-Martens-Latem", "Lochristi", "Melle"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisedewu.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -440,7 +439,7 @@
 	"personal_email": "cappelleniels@hotmail.com",
 	"city": "Reningelst",
 	"postal_code": "8970",
-	"preferred_regions": "Poperinge, Ieper, Kortrijk",
+	"preferred_regions": ["Poperinge", "Ieper", "Kortrijk"],
 	"quote": "Je wit va woa dak zin, eni?",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnielcapp1.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
@@ -466,7 +465,7 @@
 	"personal_email": "elise.boxstaele@telenet.be",
 	"city": "Eke-Nazareth",
 	"postal_code": "9810",
-	"preferred_regions": "Oost-Vlaanderen",
+	"preferred_regions": ["Oost-Vlaanderen"],
 	"quote": "I'm silently judging your font choice",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisboxs.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -480,7 +479,7 @@
 	"personal_email": "sofie-vc@outlook.com",
 	"city": "Ronse",
 	"postal_code": "9600",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"quote": "It takes real skills to fall up the stairs and trip over nothing. I have those skills.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivanc2.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -494,7 +493,7 @@
 	"personal_email": "adriaanglibert@hotmail.com",
 	"city": "Gent",
 	"postal_code": "9000",
-	"preferred_regions": "Gent, Ronse, Brussel",
+	"preferred_regions": ["Gent", "Ronse", "Brussel"],
 	"quote": "Life, euh, finds a way",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fadriglib.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
@@ -509,7 +508,7 @@
 	"city": "Merchtem",
 	"postal_code": "1785",
 	"quote": "The pursuit, even of the best things, ought to be calm and tranquil. (Cicero)",
-	"preferred_regions": "Brussel",
+	"preferred_regions": ["Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fastrvand8.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -521,7 +520,7 @@
 	"ahs_email": "alisooms@student.arteveldehs.be",
 	"personal_email": "alissa.ooms1@gmail.com",
 	"quote": "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek. - B. Obama",
-	"preferred_regions": "Antwerpen, Aalst, Gent",
+	"preferred_regions": ["Antwerpen", "Aalst", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falisooms.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -535,7 +534,7 @@
 	"city": "Melle",
 	"postal_code": "9090",
 	"quote": "Believe in your infinite potential. Your only limitations are those you set upon yourself.",
-	"preferred_regions": "Oost-Vlaanderen, West-Vlaanderen",
+	"preferred_regions": ["Oost-Vlaanderen", "West-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoliroos.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -549,7 +548,7 @@
 	"city": "Oostrozebeke",
 	"postal_code": "8780",
 	"quote": "Carpe Diem",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fninaampe.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -576,7 +575,7 @@
 	"city": "Zelzate",
 	"postal_code": "9060",
 	"quote": "Mijn portfolio: vimeo.com/rokonproductions",
-	"preferred_regions": "Gent, Zelzate, Brussel, Antwerpen",
+	"preferred_regions": ["Gent", "Zelzate", "Brussel", "Antwerpen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbkoni.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -589,7 +588,7 @@
 	"personal_email": "mathias.van.sele@gmail.com",
 	"city": "Gent",
 	"postal_code": "9040",
-	"preferred_regions": "Gent, Antwerpen,Brussel",
+	"preferred_regions": ["Gent", "Antwerpen", "Brussel"],
 	"quote": "Friends don't lie",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathvans1.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -604,7 +603,7 @@
 	"city": "Sint-Laureins",
 	"postal_code": "9980",
 	"quote": "'t Leven is als een frikandel, je moet het zelf speciaal maken",
-	"preferred_regions": "Gent, Mariakerke, Sint-Laureins",
+	"preferred_regions": ["Gent", "Mariakerke", "Sint-Laureins"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsielblon.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -618,7 +617,7 @@
 	"city": "Haaltert",
 	"postal_code": "9450",
 	"quote": "A creative mind is a healthy mind",
-	"preferred_regions": "Brussel, Gent, Aalst, Oost-vlaanderen",
+	"preferred_regions": ["Brussel", "Gent", "Aalst", "Oost-vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnickdekn.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -632,7 +631,7 @@
 	"city": "Torhout",
 	"postal_code": "8820",
 	"quote": "Doubt kills more dreams than failure ever will",
-	"preferred_regions": "Brugge, Roeselare, Kortrijk, Gent, Oostende",
+	"preferred_regions": ["Brugge", "Roeselare", "Kortrijk", "Gent", "Oostende"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanolang.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -658,7 +657,7 @@
 	"personal_email": "marlies.stevens@hotmail.com",
 	"city": "Bavikhove",
 	"postal_code": "8531",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
 	"quote": "Tegen wanneer was die quote nu weer?",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarlstev1.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -672,7 +671,7 @@
 	"personal_email": "shelseypat@hotmail.com",
 	"city": "Moorslede",
 	"postal_code": "8890",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"quote": "Winter is coming!",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fshelpatt.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -685,7 +684,7 @@
 	"ahs_email": "daradeco@student.arteveldehs.be",
 	"personal_email": "daradecoensel@hotmail.com",
 	"quote": "Mik op de maan, als je die mist komt je toch tussen de sterren terecht.",
-	"preferred_regions": "Gent, Leuven, Brussel",
+	"preferred_regions": ["Gent", "Leuven", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaradeco.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -699,7 +698,7 @@
 	"city": "Oudenaarde",
 	"postal_code": "9700",
 	"quote": "There is no one better than you at what you do.",
-	"preferred_regions": "Oudenaarde, Gent",
+	"preferred_regions": ["Oudenaarde", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flotthenr.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -713,7 +712,7 @@
 	"city": "Drongen",
 	"postal_code": "9031",
 	"quote": "if it doesn't CHALLENGE you, it doesn't CHANGE you",
-	"preferred_regions": "Gent, Antwerpen, Brussel ",
+	"preferred_regions": ["Gent", "Antwerpen", "Brussel "],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzapete.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -727,7 +726,7 @@
 	"city": "Jabbeke",
 	"postal_code": "8490",
 	"quote": "Underestimate me. That'll be fun.",
-	"preferred_regions": "Brugge, Kortrijk, Gent",
+	"preferred_regions": ["Brugge", "Kortrijk", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fclarslab.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -740,7 +739,7 @@
 	"personal_email": "anneleenpeeters02@gmail.com",
 	"city": "Retie",
 	"postal_code": "2470",
-	"preferred_regions": "Antwerpen, Turnhout, Eindhoven",
+	"preferred_regions": ["Antwerpen", "Turnhout", "Eindhoven"],
 	"quote": "Even on my worst day I'm killing it",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannepeet2.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -767,7 +766,7 @@
 	"personal_email": "silvio.samyn@hotmail.com",
 	"city": "Moorslede",
 	"postal_code": "8890",
-	"preferred_regions": "Roeselare, Brugge, Kortrijk",
+	"preferred_regions": ["Roeselare", "Brugge", "Kortrijk"],
 	"quote": "Adventure awaits… for those who dare to imagine",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsilvsamy.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -781,7 +780,7 @@
 	"personal_email": "emmely.venneman@hotmail.com",
 	"city": "Kalken",
 	"postal_code": "9270",
-	"preferred_regions": "Gent, Wetteren, Aalst",
+	"preferred_regions": ["Gent", "Wetteren", "Aalst"],
 	"quote": "If opportunity doesn't knock, build a door",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Femmevenn.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -809,7 +808,7 @@
 	"city": "Zedelgem",
 	"postal_code": "8210",
 	"quote": "Everything has been done before. Do it better!",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen, Antwerpen, Vlaams-Brabant, Brussel",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen", "Antwerpen", "Vlaams-Brabant", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxiterm.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -820,7 +819,7 @@
 	"student_number": "89602",
 	"ahs_email": "bertbric@student.arteveldehs.be",
 	"personal_email": "burdsdesign@gmail.com",
-	"preferred_regions": "Gent, Aalst",
+	"preferred_regions": ["Gent", "Aalst"],
 	"quote": "I tried! I won!",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertbric.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -835,7 +834,7 @@
 	"city": "Zedelgem",
 	"postal_code": "8210",
 	"quote": "I got to thinking. Maybe I'm the Dragonborn, I just don't know it yet.",
-	"preferred_regions": "Gent, Brugge",
+	"preferred_regions": ["Gent", "Brugge"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdieddeso.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04b"
 }, {
@@ -848,7 +847,7 @@
 	"personal_email": "de.clercq.julie@outlook.com",
 	"city": "9000",
 	"postal_code": "Gent",
-	"preferred_regions": "Gent, Antwerpen, Brussel",
+	"preferred_regions": ["Gent", "Antwerpen", "Brussel"],
 	"quote": "My brain has too many tabs open",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulidecl1.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -862,7 +861,7 @@
 	"personal_email": "ciskacallens@hotmail.com",
 	"city": "Wijtschate",
 	"postal_code": "8953",
-	"preferred_regions": "Oost- en West-Vlaanderen",
+	"preferred_regions": ["Oost- en West-Vlaanderen"],
 	"quote": "If your dreams don't scare you, they are not big enough.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fciskcall.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -876,7 +875,7 @@
 	"personal_email": "mathy.lippens@gmail.com",
 	"city": "Kluisbergen",
 	"postal_code": "9690",
-	"preferred_regions": "Gent, Kortrijk, Abroad",
+	"preferred_regions": ["Gent", "Kortrijk", "Abroad"],
 	"quote": "Live, Life, Loof",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathlipp.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -888,7 +887,7 @@
 	"student_number": "87109",
 	"ahs_email": "yanavand4@student.arteveldehs.be",
 	"personal_email": "yana.vandenborre@hotmail.com",
-	"preferred_regions": "Ronse, Oudenaarde, Kortrijk, Gent",
+	"preferred_regions": ["Ronse", "Oudenaarde", "Kortrijk", "Gent"],
 	"quote": "But first, coffee",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyanavand4.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -902,7 +901,7 @@
 	"personal_email": "kristof.lettens@hotmail.com",
 	"city": "Affligem",
 	"postal_code": "1790",
-	"preferred_regions": "Vlaams-Brabant, Oost-Vlaanderen",
+	"preferred_regions": ["Vlaams-Brabant", "Oost-Vlaanderen"],
 	"quote": "Ik ben mij vergeten scheren.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkrislett.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -917,7 +916,7 @@
 	"city": "Aalst",
 	"postal_code": "9300",
 	"quote": "The answer that you seek is exactly where you're not looking",
-	"preferred_regions": "Aalst, Gent, Brussel",
+	"preferred_regions": ["Aalst", "Gent", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobijans.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -930,7 +929,7 @@
 	"personal_email": "jochen.de.clercq@gmail.com",
 	"city": "Vlierzele",
 	"postal_code": "9520",
-	"preferred_regions": "Gent, Aalst",
+	"preferred_regions": ["Gent", "Aalst"],
 	"quote": "Acht jaar op de hogeschool, ik kon al dokter zijn.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjochdecl.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -945,7 +944,7 @@
 	"city": "Hamont-Achel",
 	"postal_code": "3930",
 	"quote": "Logic will get you from A to B. Imagination will take you everywhere.",
-	"preferred_regions": "Limburg",
+	"preferred_regions": ["Limburg"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannmoor.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -958,7 +957,7 @@
 	"personal_email": "ankebraeckman@hotmail.com",
 	"city": "Beervelde",
 	"postal_code": "9080",
-	"preferred_regions": "Lochristi, Gent, Wetteren, Lokeren",
+	"preferred_regions": ["Lochristi", "Gent", "Wetteren", "Lokeren"],
 	"quote": "I don't know where i'm going but I'm on my way",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fankebrae1.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -983,7 +982,7 @@
 	"city": "Lennik",
 	"postal_code": "1750",
 	"quote": "Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan.",
-	"preferred_regions": "Vlaams Brabant",
+	"preferred_regions": ["Vlaams Brabant"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisapitt.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -997,7 +996,7 @@
 	"city": "Assebroek",
 	"postal_code": "8310",
 	"quote": "Clients are the difference between design and art.",
-	"preferred_regions": "Gent, Brugge, Brussel",
+	"preferred_regions": ["Gent", "Brugge", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstijgeve.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1011,7 +1010,7 @@
 	"city": "Harelbeke",
 	"postal_code": "8530",
 	"quote": "There is no place like 127.0.0.1",
-	"preferred_regions": "Kortrijk, Waregem, Roeselare, Gent, Brugge",
+	"preferred_regions": ["Kortrijk", "Waregem", "Roeselare", "Gent", "Brugge"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fauredeco.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
 }, {
@@ -1023,7 +1022,7 @@
 	"ahs_email": "evibulte@student.arteveldehs.be",
 	"personal_email": "evi.bulteel@hotmail.com",
 	"quote": "Good, better, best. Never let it rest. 'Til your good is better and your better is best. - St. Jerome",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevibulte.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1063,7 +1062,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "Nothing makes me more productive than the last minute.",
-	"preferred_regions": "Gent, Antwerpen, Brussel",
+	"preferred_regions": ["Gent", "Antwerpen", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbastdeva.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1076,7 +1075,7 @@
 	"personal_email": "ana.van.melckebeke@gmail.com",
 	"city": "Aalst",
 	"postal_code": "9300",
-	"preferred_regions": "Oost-Vlaanderen",
+	"preferred_regions": ["Oost-Vlaanderen"],
 	"quote": "Always wear your thinking cap with your party shoes",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanavanme.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
@@ -1104,7 +1103,7 @@
 	"city": "Waregem",
 	"postal_code": "8790",
 	"quote": "Sometimes we have to stop being scared and just go for it. Either it'll work or it won't. That is life.",
-	"preferred_regions": "Gent, Brussel",
+	"preferred_regions": ["Gent", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbarbcour.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1118,7 +1117,7 @@
 	"city": "Kortrijk",
 	"postal_code": "8500",
 	"quote": "I now walk into the wild",
-	"preferred_regions": "Kortrijk, Gent",
+	"preferred_regions": ["Kortrijk", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flukablon.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1132,7 +1131,7 @@
 	"city": "Aalst",
 	"postal_code": "9300",
 	"quote": "Error 404. Looks like this quote doesn't exist.",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaanmeer.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
 }, {
@@ -1145,7 +1144,7 @@
 	"personal_email": "simonblondeel@hotmail.com",
 	"city": "Roeselare",
 	"postal_code": "8800",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
 	"quote": "Without a goal you can't score.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimoblon.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -1159,8 +1158,8 @@
 	"personal_email": "lode.muylaert@hotmail.com",
 	"city": "Haaltert",
 	"postal_code": "9450",
-	"quote": " the end is always near",
-	"preferred_regions": "Aalst, Gent",
+	"quote": "the end is always near",
+	"preferred_regions": ["Aalst", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flodemuyl.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
 }, {
@@ -1174,7 +1173,7 @@
 	"city": "Affligem",
 	"postal_code": "1790",
 	"quote": "My nightmares are in Comic Sans",
-	"preferred_regions": "Oost-Vlaanderen, Vlaams-Brabant",
+	"preferred_regions": ["Oost-Vlaanderen", "Vlaams-Brabant"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnomivang.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1186,7 +1185,7 @@
 	"ahs_email": "lauraude@student.arteveldehs.be",
 	"personal_email": "audenaert.laurence@gmail.com",
 	"quote": "Zalig.",
-	"preferred_regions": "Gent, Amsterdam, Berlijn, Sydney",
+	"preferred_regions": ["Gent", "Amsterdam", "Berlijn", "Sydney"],
 	"specialization": "5a9c6d79b5decd09cacda049",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fundefined?alt=media"
 }, {
@@ -1238,7 +1237,7 @@
 	"personal_email": "Tristan Steyaert",
 	"city": "Zelzate",
 	"postal_code": "9060",
-	"preferred_regions": "Gent, Zelzate",
+	"preferred_regions": ["Gent", "Zelzate"],
 	"quote": "The risk I took was calculated, but man, am I bad at math. ",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftrisstey.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -1252,7 +1251,7 @@
 	"personal_email": "aline.adins@gmail.com",
 	"city": "Geraardsbergen",
 	"postal_code": "9500",
-	"preferred_regions": "Brussel, Gent ",
+	"preferred_regions": ["Brussel", "Gent"],
 	"quote": "AdrenALINE",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falinadin.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -1267,7 +1266,7 @@
 	"city": "Lennik",
 	"postal_code": "1750",
 	"quote": "Eindelijk.",
-	"preferred_regions": "Gent, Brussel, Halle",
+	"preferred_regions": ["Gent", "Brussel", "Halle"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjodidegr.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1306,7 +1305,7 @@
 	"personal_email": "ynevdm@gmail.com",
 	"city": "Waregem",
 	"postal_code": "8790",
-	"preferred_regions": "Verenigd Koninkrijk, Brussel, Gent",
+	"preferred_regions": ["Verenigd Koninkrijk", "Brussel", "Gent"],
 	"quote": "Kben nog nie zo achterlijk als ik eruit zie",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fynevande.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -1331,7 +1330,7 @@
 	"personal_email": "marie_gielen@hotmail.com",
 	"city": "Sint-Eloois-Winkel",
 	"postal_code": "8880",
-	"preferred_regions": "Gent, West-Vlaanderen",
+	"preferred_regions": ["Gent", "West-Vlaanderen"],
 	"quote": "Niet te fel e, forel",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarigiel.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -1346,7 +1345,7 @@
 	"city": "Horebeke",
 	"postal_code": "9667",
 	"quote": "Wanting to be someone else is a waste of the person you are. -Kurt Cobain-",
-	"preferred_regions": "Oudenaarde, Gent",
+	"preferred_regions": ["Oudenaarde", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flindghys.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1359,7 +1358,7 @@
 	"personal_email": "mirtepoelmans@hotmail.com",
 	"city": "Vilvoorde",
 	"postal_code": "1800",
-	"quote": " 't Is om te rotten e.",
+	"quote": "'t Is om te rotten e.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmirtpoel.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1371,7 +1370,7 @@
 	"ahs_email": "sofivand22@student.arteveldehs.be",
 	"city": "Ingelmunster",
 	"postal_code": "8770",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"quote": "Een beetje minder e, vlinder",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivand22.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -1399,7 +1398,7 @@
 	"city": "Ursel",
 	"postal_code": "9910",
 	"quote": "Een dag niet gelachen is een dag niet geleefd. ",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftjorvano.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1412,7 +1411,7 @@
 	"personal_email": "Nigel.berth@gmail.com",
 	"city": "Eeklo",
 	"postal_code": "9900",
-	"preferred_regions": "Brugge, Gent",
+	"preferred_regions": ["Brugge", "Gent"],
 	"quote": "Ja, ik ben famillie van Mr. Berth.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnigebert.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -1427,7 +1426,7 @@
 	"city": "Lovendegem",
 	"postal_code": "9920",
 	"quote": "I did it!",
-	"preferred_regions": "Gent, Brussel",
+	"preferred_regions": ["Gent", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbrundege.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1441,7 +1440,7 @@
 	"city": "Sint-Amandsberg",
 	"postal_code": "9040",
 	"quote": "Life is a soup and I am a fork",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyasekucu.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1454,7 +1453,7 @@
 	"personal_email": "elien.verheyen@hotmail.com",
 	"city": "Gent",
 	"postal_code": "9000",
-	"preferred_regions": "Gent - Brussel ",
+	"preferred_regions": ["Gent - Brussel "],
 	"quote": "Ik ben blij da gij in mijn team zit :)",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felieverh3.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -1468,7 +1467,7 @@
 	"personal_email": "coppens97@gmail.com",
 	"city": "Deinze",
 	"postal_code": "9800",
-	"preferred_regions": "Gent, Kortrijk, Deinze",
+	"preferred_regions": ["Gent", "Kortrijk", "Deinze"],
 	"quote": "Screw this, I'm going to Hogwarts.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencopp.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -1483,7 +1482,7 @@
 	"city": "Bredene",
 	"postal_code": "8450",
 	"quote": "Wuk ist med uij moat?",
-	"preferred_regions": "West-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgieldebu.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1497,7 +1496,7 @@
 	"city": "Heuvelland",
 	"postal_code": "8953",
 	"quote": "Greatness from small beginnings.",
-	"preferred_regions": "Heuvelland, Ieper, Poperinge, Roeselare, Kortrijk",
+	"preferred_regions": ["Heuvelland", "Ieper", "Poperinge", "Roeselare", "Kortrijk"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnevrom.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1511,7 +1510,7 @@
 	"city": "Poperinge",
 	"postal_code": "8970",
 	"quote": "Design is where science and art break even.",
-	"preferred_regions": "West-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzathee.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1536,7 +1535,7 @@
 	"personal_email": "Lry.nicolas@gmail.com",
 	"city": "De Pinte",
 	"postal_code": "9840",
-	"preferred_regions": "Gent, Kortrijk, Waregem",
+	"preferred_regions": ["Gent", "Kortrijk", "Waregem"],
 	"quote": "Een Orvalleken met zalmtoastjes, da mag nen alien wel ne keer geire é!",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicolero1.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -1550,7 +1549,7 @@
 	"personal_email": "gillvindevogel@msn.com",
 	"city": "Oudenaarde",
 	"postal_code": "9700",
-	"preferred_regions": "Vlaanderen",
+	"preferred_regions": ["Vlaanderen"],
 	"quote": "Het komt wel goed! ",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgillvind.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -1565,7 +1564,7 @@
 	"city": "Destelbergen",
 	"postal_code": "9070",
 	"quote": "Come what may",
-	"preferred_regions": "Gent, Antwerpen",
+	"preferred_regions": ["Gent", "Antwerpen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgertphil.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1578,7 +1577,7 @@
 	"personal_email": "Julie.gauwberg@gmail.com",
 	"city": "Mariakerke",
 	"postal_code": "9030",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"quote": "Who sees the human face correctly: the photographer, the mirror, or the painter? - Pablo Picasso",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjuligauw.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
@@ -1592,7 +1591,7 @@
 	"personal_email": "nicky.silversmet@gmail.com",
 	"city": "Gent",
 	"postal_code": "9000",
-	"preferred_regions": "Gent, Antwerpen, Brussel",
+	"preferred_regions": ["Gent", "Antwerpen", "Brussel"],
 	"quote": "Don't give up your dreams. Keep sleeping.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicksilv.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -1620,7 +1619,7 @@
 	"city": "Zingem",
 	"postal_code": "9750",
 	"quote": "I don't like being quoted",
-	"preferred_regions": "Internationaal",
+	"preferred_regions": ["Internationaal"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnovand10.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1634,7 +1633,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "Retnik Season!!!",
-	"preferred_regions": "Wereldwijd",
+	"preferred_regions": ["Wereldwijd"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdylavans.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1648,7 +1647,7 @@
 	"city": "Aalst",
 	"postal_code": "9310",
 	"quote": "Go with the flow",
-	"preferred_regions": "Europe (and beyond)",
+	"preferred_regions": ["Europe (and beyond)"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofiverm8.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -1662,7 +1661,7 @@
 	"city": "Voormezele",
 	"postal_code": "8902",
 	"quote": "'t Leven is gin crèmekarre.",
-	"preferred_regions": "West-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fthomcopp.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
 }, {
@@ -1689,7 +1688,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "Ik schrijf dit vanuit een videoproductiebedrijf in Londen. als mijn luie gat dat kan, dan kan jij het ook!",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkimeldar.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1703,7 +1702,7 @@
 	"city": "Brakelsesteenweg 641 Voorde",
 	"postal_code": "9400",
 	"quote": "Will it be easy? Nope. Worth it? Absolutely.",
-	"preferred_regions": "Gent, Brakel, Ninove, Brussel",
+	"preferred_regions": ["Gent", "Brakel", "Ninove", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonadeco2.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1717,7 +1716,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "No one ever died from too much white space",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencard.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1730,7 +1729,7 @@
 	"personal_email": "dean.de.coster@gmail.com",
 	"city": "Roosdaal",
 	"postal_code": "1760",
-	"preferred_regions": "Gent, Antwerpen, Brussel",
+	"preferred_regions": ["Gent", "Antwerpen", "Brussel"],
 	"quote": "I did it, I graduated, now i'm smart and stuff!",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdeandeco.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -1745,7 +1744,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "Be inspired by the moment",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanthdero.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1759,7 +1758,7 @@
 	"city": "Machelen-Zulte",
 	"postal_code": "9870",
 	"quote": "Working hard is important, but feeling good is important too.",
-	"preferred_regions": "Gent, Kortrijk, Antwerpen",
+	"preferred_regions": ["Gent", "Kortrijk", "Antwerpen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyoerdesl.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1772,7 +1771,7 @@
 	"personal_email": "feline.dekeyser@hotmail.com",
 	"city": "Oudenburg",
 	"postal_code": "8460",
-	"preferred_regions": "Oostende, Brugge, Gent",
+	"preferred_regions": ["Oostende", "Brugge", "Gent"],
 	"quote": "Min widder nohal een bitje een skete helach'n wè",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ffelideke.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -1783,7 +1782,7 @@
 	"username": "delpdeli",
 	"student_number": "67323",
 	"ahs_email": "delpdeli@student.arteveldehs.be",
-	"preferred_regions": "Regio rond Waregem, Kortrijk ",
+	"preferred_regions": ["Regio rond Waregem", "Kortrijk "],
 	"quote": "Da we nog lang meugn meugn en goe kunnen kunnen ",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdelpdeli.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -1798,7 +1797,7 @@
 	"city": "Sint-Amandsberg ",
 	"postal_code": "9040",
 	"quote": "Tot volgend jaar! ",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpaoldese.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1811,7 +1810,7 @@
 	"personal_email": "Eben.laflere@telenet.be",
 	"city": "Aalter",
 	"postal_code": "9880",
-	"preferred_regions": "Gent, Aalter, Brugge, Brussel, Antwerpen",
+	"preferred_regions": ["Gent", "Aalter", "Brugge", "Brussel", "Antwerpen"],
 	"quote": "If you don't succeed at first, hide all evidence that you tried",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Febenlafl.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -1826,7 +1825,7 @@
 	"city": "Hamme",
 	"postal_code": "9220",
 	"quote": "(F) art",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flienvanr.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -1840,7 +1839,7 @@
 	"city": "Eeklo",
 	"postal_code": "9900",
 	"quote": "Life always finds a way",
-	"preferred_regions": "Vlaanderen",
+	"preferred_regions": ["Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbasismit.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
 }, {
@@ -1854,7 +1853,7 @@
 	"city": "Lokeren",
 	"postal_code": "9160",
 	"quote": "I don't need a quote.",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonajanz.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -1868,7 +1867,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "Intelligence is the ability to adapt to change",
-	"preferred_regions": "Oost-Vlaanderen",
+	"preferred_regions": ["Oost-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstefrond.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -1882,7 +1881,7 @@
 	"city": "Ninove",
 	"postal_code": "9401",
 	"quote": "Typ 'Charlotte Van Schepdael' in op LinkedIn en druk op Connectie maken. You Won’t Believe What Happens Next!",
-	"preferred_regions": "Gent, Aalst, Brussel",
+	"preferred_regions": ["Gent", "Aalst", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcharvans1.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -1909,7 +1908,7 @@
 	"city": "Ingooigem",
 	"postal_code": "8570",
 	"quote": "Become who you are",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fchlobaes.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1922,7 +1921,7 @@
 	"personal_email": "dewilde.mathias@hotmail.com",
 	"city": "Lochristi",
 	"postal_code": "9080",
-	"preferred_regions": "Oost-Vlaanderen, Antwerpen",
+	"preferred_regions": ["Oost-Vlaanderen", "Antwerpen"],
 	"quote": "Alles wa ge zelf doet, doet ge beter, maar een samenvatting van een medestudent is altijd welkom!",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathdewi.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -1936,7 +1935,7 @@
 	"personal_email": "Valery.defreyne@hotmail.com",
 	"city": "Steenovenstraat 5",
 	"postal_code": "8850",
-	"preferred_regions": "Brugge ,Kortrijk ,Gent",
+	"preferred_regions": ["Brugge ", "Kortrijk ", "Gent"],
 	"quote": "Dreams don't work unless you do",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvaledefr.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
@@ -1951,7 +1950,7 @@
 	"city": "Mariakerke",
 	"postal_code": "9030",
 	"quote": "Design is thinking made visual. - Saul Bass",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbmuss.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -1964,7 +1963,7 @@
 	"personal_email": "xandrijn.verhaegen@skynet.be",
 	"city": "Aalst",
 	"postal_code": "9300",
-	"preferred_regions": "Aalst, Gent",
+	"preferred_regions": ["Aalst", "Gent"],
 	"quote": "Only the brave teach ",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fxandverh.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -1990,7 +1989,7 @@
 	"city": "Aalst",
 	"postal_code": "9300",
 	"quote": "Put your hair up in a bun, drink some coffee and handle it.",
-	"preferred_regions": "Aalst, Lede, Erpe-Mere, Denderleeuw",
+	"preferred_regions": ["Aalst", "Lede", "Erpe-Mere", "Denderleeuw"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Floridebo.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -2016,7 +2015,7 @@
 	"personal_email": "sarahvandenberghe@outlook.be",
 	"city": "Ronse",
 	"postal_code": "9600",
-	"preferred_regions": "Gent, Kortrijk",
+	"preferred_regions": ["Gent", "Kortrijk"],
 	"quote": "Much wow, such graduate, very diploma, many smart.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsaravand46.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -2031,7 +2030,7 @@
 	"city": "Assenede",
 	"postal_code": "9960",
 	"quote": "Tis allemaal de schuld van de sossen",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimodepo.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -2054,7 +2053,7 @@
 	"personal_email": "melissa.lafarque@gmail.com",
 	"city": "Aalst",
 	"postal_code": "9300",
-	"preferred_regions": "Aalst, Denderleeuw, Brussel, Gent",
+	"preferred_regions": ["Aalst", "Denderleeuw", "Brussel", "Gent"],
 	"quote": "Adios bitchachos",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmelilafa.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -2068,7 +2067,7 @@
 	"personal_email": "bert1.Lecomte@gmail.com",
 	"city": "Torhout",
 	"postal_code": "8820",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen, Antwerpen, Brussel",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen", "Antwerpen", "Brussel"],
 	"quote": "Miaaaaauwkesssss",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertleco.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -2083,7 +2082,7 @@
 	"city": "Roosdaal",
 	"postal_code": "1760",
 	"quote": "I won't be impressed with technology until I can download food",
-	"preferred_regions": "Brussel, Aalst, Gent",
+	"preferred_regions": ["Brussel", "Aalst", "Gent"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fheledesm.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -2096,8 +2095,8 @@
 	"personal_email": "maxinelibbrecht@hotmail.com",
 	"city": "Izegem",
 	"postal_code": "8870",
-	"preferred_regions": "Kortrijk, Brugge, Gent",
-	"quote": " 't is goe",
+	"preferred_regions": ["Kortrijk", "Brugge", "Gent"],
+	"quote": "'t is goe",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxilibb.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -2123,7 +2122,7 @@
 	"personal_email": "robbe.vandenhove96@gmail.com",
 	"city": "Beersel",
 	"postal_code": "1650",
-	"preferred_regions": "Beersel",
+	"preferred_regions": ["Beersel"],
 	"quote": "To a great mind, nothing is little. ",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbvand6.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
@@ -2147,7 +2146,7 @@
 	"personal_email": "hannesvanhijfte@live.com",
 	"city": "Sleidinge",
 	"postal_code": "9940",
-	"preferred_regions": "Gent, Antwerpen",
+	"preferred_regions": ["Gent", "Antwerpen"],
 	"quote": "Well, dreams, they feel real while we're in them right? It's only when we wake up then we realize that something was actually strange",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannvanh5.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -2161,7 +2160,7 @@
 	"personal_email": "zancaneri@gmail.com",
 	"city": "Mariakerke",
 	"postal_code": "9030",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"quote": "I could do this with my hands closed and my eyes behind my back.",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Filonzanc.jpg?alt=media",
 	"specialization": "5a7333dad0eddd9838f18dae"
@@ -2176,7 +2175,7 @@
 	"city": "GENT",
 	"postal_code": "9000",
 	"quote": "Mens sana in corpore sano",
-	"preferred_regions": "Gent, Antwerpen, Brugge, Brussel, Tel Aviv, Dubai, Singapore, San Francisco, San Diego, New York, Londen, Beijing, Tokio",
+	"preferred_regions": ["Gent", "Antwerpen", "Brugge", "Brussel", "Tel Aviv", "Dubai", "Singapore", "San Francisco", "San Diego", "New York", "Londen", "Beijing", "Tokio"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsanddoom.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -2190,7 +2189,7 @@
 	"city": "Scheldewindeke",
 	"postal_code": "9860",
 	"quote": "1004 - Lapalux",
-	"preferred_regions": "Oost-Vlaanderen, Brussel",
+	"preferred_regions": ["Oost-Vlaanderen", "Brussel"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjelldutr.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
 }, {
@@ -2203,7 +2202,7 @@
 	"personal_email": "bebelleruffai@outlook.com",
 	"city": "Ertvelde",
 	"postal_code": "9940",
-	"preferred_regions": "Gent, Eeklo, Evergem",
+	"preferred_regions": ["Gent", "Eeklo", "Evergem"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbeberuff.jpg?alt=media",
 	"specialization": "5a9c6e33b5decd09cacda04a"
 }, {
@@ -2214,7 +2213,7 @@
 	"student_number": "82797",
 	"ahs_email": "kevitres@student.arteveldehs.be",
 	"personal_email": "kevin.tresinie@gmail.com",
-	"preferred_regions": "Gent",
+	"preferred_regions": ["Gent"],
 	"quote": "… en de walen",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevitres.jpg?alt=media",
 	"specialization": "5a733419d0eddd9838f18daf"
@@ -2229,7 +2228,7 @@
 	"city": "Gent",
 	"postal_code": "9000",
 	"quote": "Every mountain can be climbed",
-	"preferred_regions": "Oost-vlaanderen, Brussel, Brugge, Antwerpen",
+	"preferred_regions": ["Oost-vlaanderen", "Brussel", "Brugge", "Antwerpen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromalamm.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda049"
 }, {
@@ -2242,7 +2241,7 @@
 	"city": "Loppem",
 	"postal_code": "8210",
 	"quote": "Make it simple but significant.",
-	"preferred_regions": "West-Vlaanderen, Oost-Vlaanderen, Antwerpen",
+	"preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen", "Antwerpen"],
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fineroose.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }, {
@@ -2255,7 +2254,6 @@
 	"city": "Zottegem",
 	"postal_code": "9620",
 	"quote": "The only thing I learned today is that I should have stayed at home.",
-	"preferred_regions": "",
 	"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobiprin.jpg?alt=media",
 	"specialization": "5a9c6d79b5decd09cacda048"
 }]

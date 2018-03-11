@@ -30,18 +30,18 @@ Install the dependencies
 npm install
 ```
 
-Run the Node.js server using the globally installed nodemon module
+Run the Node.js server in development mode or production mode
 
 ```
-npm install -g nodemon
-nodemon
+yarn start-dev
+yarn start
 ```
 
 To start the frontend, navigate into the client/src folder and start the server
 
 ```
 cd client/src
-npm start
+yarn start
 ```
 
 Contact
