@@ -26,7 +26,11 @@ const userSchema = mongoose.Schema({
     type: String,
   },
   picture: {
-    type: String,
+		original: String,
+		thumb: String,
+		sm: String,
+		md: String,
+		lg: String,
   },
   city: {
     type: String,

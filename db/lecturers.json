@@ -1,468 +1,515 @@
-[
-	{
-		"type": "lecturer",
-		"first_name": "Kristof",
-		"name": "Raes",
-		"username": "krisra",
-		"ahs_email": "krisra@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkrisra.jpg?alt=media",
-		"quote": "It’s smart to be clever & clever to be smart."
+[{
+	"type": "lecturer",
+	"first_name": "Kristof",
+	"name": "Raes",
+	"username": "krisra",
+	"ahs_email": "krisra@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkrisra.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Luk",
-		"name": "Bouters",
-		"username": "lukbo",
-		"ahs_email": "lukbo@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flukbo.jpg?alt=media",
-		"quote": "Mochten jouw dromen in de fik staan, welke zou je redden?"
+	"quote": "It’s smart to be clever & clever to be smart."
+}, {
+	"type": "lecturer",
+	"first_name": "Luk",
+	"name": "Bouters",
+	"username": "lukbo",
+	"ahs_email": "lukbo@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flukbo.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Evelien",
-		"name": "Cochez",
-		"username": "evelco1",
-		"ahs_email": "evelco1@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fevelco1.jpg?alt=media",
-		"quote": "There is a crack in everything. That's how the light gets in. (L. Cohen)"
+	"quote": "Mochten jouw dromen in de fik staan, welke zou je redden?"
+}, {
+	"type": "lecturer",
+	"first_name": "Evelien",
+	"name": "Cochez",
+	"username": "evelco1",
+	"ahs_email": "evelco1@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fevelco1.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Linda",
-		"name": "Bogaert",
-		"username": "lindbo",
-		"ahs_email": "lindbo@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flindbo.jpg?alt=media",
-		"quote": "The world is a book. Those who do not travel, read only one page."
+	"quote": "There is a crack in everything. That's how the light gets in. (L. Cohen)"
+}, {
+	"type": "lecturer",
+	"first_name": "Linda",
+	"name": "Bogaert",
+	"username": "lindbo",
+	"ahs_email": "lindbo@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flindbo.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Luc",
-		"name": "Berth",
-		"username": "lucbe",
-		"ahs_email": "lucbe@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flucbe.jpg?alt=media",
-		"quote": "Een gezonde geest in een gezond lichaam."
+	"quote": "The world is a book. Those who do not travel, read only one page."
+}, {
+	"type": "lecturer",
+	"first_name": "Luc",
+	"name": "Berth",
+	"username": "lucbe",
+	"ahs_email": "lucbe@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flucbe.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Dieter",
-		"name": "De Weirdt",
-		"username": "dietde2",
-		"ahs_email": "dietde2@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fdietde2.jpg?alt=media",
-		"quote": "while ( ! $success ) { $success = try(); }"
+	"quote": "Een gezonde geest in een gezond lichaam."
+}, {
+	"type": "lecturer",
+	"first_name": "Dieter",
+	"name": "De Weirdt",
+	"username": "dietde2",
+	"ahs_email": "dietde2@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fdietde2.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Geert",
-		"name": "Fasseur",
-		"username": "geerfa",
-		"ahs_email": "geerfa@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fgeerfa.jpg?alt=media",
-		"quote": "Het leven kan alleen achterwaarts begrepen worden, maar het moet voorwaarts worden geleefd."
+	"quote": "while ( ! $success ) { $success = try(); }"
+}, {
+	"type": "lecturer",
+	"first_name": "Geert",
+	"name": "Fasseur",
+	"username": "geerfa",
+	"ahs_email": "geerfa@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fgeerfa.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Pieter",
-		"name": "Vandaele",
-		"username": "pietva",
-		"ahs_email": "pietva@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fpietva.jpg?alt=media",
-		"quote": "Vergeet niet voor wie je leeft."
+	"quote": "Het leven kan alleen achterwaarts begrepen worden, maar het moet voorwaarts worden geleefd."
+}, {
+	"type": "lecturer",
+	"first_name": "Pieter",
+	"name": "Vandaele",
+	"username": "pietva",
+	"ahs_email": "pietva@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fpietva.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Katrien",
-		"name": "Vandermarcke",
-		"username": "katrva1",
-		"ahs_email": "katrva1@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkatrva1.jpg?alt=media",
-		"quote": "Alles wat je geeft, krijg je honderdvoudig terug."
+	"quote": "Vergeet niet voor wie je leeft."
+}, {
+	"type": "lecturer",
+	"first_name": "Katrien",
+	"name": "Vandermarcke",
+	"username": "katrva1",
+	"ahs_email": "katrva1@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkatrva1.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Bart",
-		"name": "Calis",
-		"username": "bartca",
-		"ahs_email": "bartca@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartca.jpg?alt=media",
-		"quote": "Print is sexy"
+	"quote": "Alles wat je geeft, krijg je honderdvoudig terug."
+}, {
+	"type": "lecturer",
+	"first_name": "Bart",
+	"name": "Calis",
+	"username": "bartca",
+	"ahs_email": "bartca@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartca.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Inge",
-		"name": "De Canck",
-		"username": "ingede2",
-		"ahs_email": "ingede2@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingede2.jpg?alt=media",
-		"quote": "Carpe diem"
+	"quote": "Print is sexy"
+}, {
+	"type": "lecturer",
+	"first_name": "Inge",
+	"name": "De Canck",
+	"username": "ingede2",
+	"ahs_email": "ingede2@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingede2.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Olivier",
-		"name": "Parent",
-		"username": "olivpa",
-		"ahs_email": "olivpa@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Folivpa.jpg?alt=media",
-		"quote": "Expect the worst, hope for the best, take what comes."
+	"quote": "Carpe diem"
+}, {
+	"type": "lecturer",
+	"first_name": "Olivier",
+	"name": "Parent",
+	"username": "olivpa",
+	"ahs_email": "olivpa@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Folivpa.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Eva",
-		"name": "Vande Populiere",
-		"username": "evavan",
-		"ahs_email": "evavan@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fevavan.jpg?alt=media",
-		"quote": "Do it with passion or not at all."
+	"quote": "Expect the worst, hope for the best, take what comes."
+}, {
+	"type": "lecturer",
+	"first_name": "Eva",
+	"name": "Vande Populiere",
+	"username": "evavan",
+	"ahs_email": "evavan@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fevavan.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Ingrid",
-		"name": "Hemelsoet",
-		"username": "ingrhe",
-		"ahs_email": "ingrhe@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingrhe.jpg?alt=media",
-		"quote": "De wereld geeft wat je de wereld geeft."
+	"quote": "Do it with passion or not at all."
+}, {
+	"type": "lecturer",
+	"first_name": "Ingrid",
+	"name": "Hemelsoet",
+	"username": "ingrhe",
+	"ahs_email": "ingrhe@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingrhe.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Ariane",
-		"name": "Van de Vyver",
-		"username": "ariava",
-		"ahs_email": "ariava@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fariava.jpg?alt=media",
-		"quote": "Iedereen zei: 'Dat gaat niet.' Toen kwam er iemand die dat niet wist en die deed het gewoon"
+	"quote": "De wereld geeft wat je de wereld geeft."
+}, {
+	"type": "lecturer",
+	"first_name": "Ariane",
+	"name": "Van de Vyver",
+	"username": "ariava",
+	"ahs_email": "ariava@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fariava.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Sander",
-		"name": "Spek",
-		"username": "sandsp",
-		"ahs_email": "sandsp@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fsandsp.jpg?alt=media",
-		"quote": "“Don't stop believin’, hold on to the feeling” – Journey"
+	"quote": "Iedereen zei: 'Dat gaat niet.' Toen kwam er iemand die dat niet wist en die deed het gewoon"
+}, {
+	"type": "lecturer",
+	"first_name": "Sander",
+	"name": "Spek",
+	"username": "sandsp",
+	"ahs_email": "sandsp@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fsandsp.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Gudrun",
-		"name": "Herman",
-		"username": "gudrhe",
-		"ahs_email": "gudrhe@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fgudrhe.jpg?alt=media",
-		"quote": "Leef!"
+	"quote": "“Don't stop believin’, hold on to the feeling” – Journey"
+}, {
+	"type": "lecturer",
+	"first_name": "Gudrun",
+	"name": "Herman",
+	"username": "gudrhe",
+	"ahs_email": "gudrhe@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fgudrhe.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Ann",
-		"name": "Audenaert",
-		"username": "annaud",
-		"ahs_email": "annaud@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannaud.jpg?alt=media",
-		"quote": "Stille waters hebben diepe gronden."
+	"quote": "Leef!"
+}, {
+	"type": "lecturer",
+	"first_name": "Ann",
+	"name": "Audenaert",
+	"username": "annaud",
+	"ahs_email": "annaud@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannaud.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Tineke",
-		"name": "Duytschaever",
-		"username": "tinedu",
-		"ahs_email": "tinedu@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftinedu.jpg?alt=media",
-		"quote": "Life is short. Smile while you still have teeth."
+	"quote": "Stille waters hebben diepe gronden."
+}, {
+	"type": "lecturer",
+	"first_name": "Tineke",
+	"name": "Duytschaever",
+	"username": "tinedu",
+	"ahs_email": "tinedu@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftinedu.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Annick",
-		"name": "Van Kerckhove",
-		"username": "annivk",
-		"ahs_email": "annivk@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannivk.jpg?alt=media",
-		"quote": "Comparison is the thief of joy."
+	"quote": "Life is short. Smile while you still have teeth."
+}, {
+	"type": "lecturer",
+	"first_name": "Annick",
+	"name": "Van Kerckhove",
+	"username": "annivk",
+	"ahs_email": "annivk@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannivk.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Ayse",
-		"name": "Aygün",
-		"username": "ayseay",
-		"ahs_email": "ayseay@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fayseay.jpg?alt=media",
-		"quote": "Let the beauty of what you love be what you do. Rumi"
+	"quote": "Comparison is the thief of joy."
+}, {
+	"type": "lecturer",
+	"first_name": "Ayse",
+	"name": "Aygün",
+	"username": "ayseay",
+	"ahs_email": "ayseay@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fayseay.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Liliana",
-		"name": "Carrillo",
-		"username": "lilica",
-		"ahs_email": "lilica@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flilica.jpg?alt=media",
-		"quote": "Logic brings your from A to B. Imagination brings you anywhere!"
+	"quote": "Let the beauty of what you love be what you do. Rumi"
+}, {
+	"type": "lecturer",
+	"first_name": "Liliana",
+	"name": "Carrillo",
+	"username": "lilica",
+	"ahs_email": "lilica@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flilica.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Kimberly",
-		"name": "Van Laere",
-		"username": "kimbva",
-		"ahs_email": "kimbva@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkimbva.jpg?alt=media",
-		"quote": "Happy girls are the prettiest."
+	"quote": "Logic brings your from A to B. Imagination brings you anywhere!"
+}, {
+	"type": "lecturer",
+	"first_name": "Kimberly",
+	"name": "Van Laere",
+	"username": "kimbva",
+	"ahs_email": "kimbva@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkimbva.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Kristof",
-		"name": "Toppets",
-		"username": "kristo",
-		"ahs_email": "kristo@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkristo.jpg?alt=media",
-		"quote": "In der Beschränkung zeigt sich erst der Meister - J.W. von Goethe"
+	"quote": "Happy girls are the prettiest."
+}, {
+	"type": "lecturer",
+	"first_name": "Kristof",
+	"name": "Toppets",
+	"username": "kristo",
+	"ahs_email": "kristo@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkristo.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Frederick",
-		"name": "Roegiers",
-		"username": "fredro1",
-		"ahs_email": "fredro1@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ffredro1.jpg?alt=media",
-		"quote": "It's better to give than to receive."
+	"quote": "In der Beschränkung zeigt sich erst der Meister - J.W. von Goethe"
+}, {
+	"type": "lecturer",
+	"first_name": "Frederick",
+	"name": "Roegiers",
+	"username": "fredro1",
+	"ahs_email": "fredro1@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ffredro1.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Barend",
-		"name": "Weyens",
-		"username": "barewe",
-		"ahs_email": "barewe@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbarewe.jpg?alt=media",
-		"quote": "Analog moods Digital minds"
+	"quote": "It's better to give than to receive."
+}, {
+	"type": "lecturer",
+	"first_name": "Barend",
+	"name": "Weyens",
+	"username": "barewe",
+	"ahs_email": "barewe@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbarewe.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Michaël",
-		"name": "Wysmans",
-		"username": "michwy",
-		"ahs_email": "michwy@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fmichwy.jpg?alt=media",
-		"quote": "Forget the mistake. Remember the lesson."
+	"quote": "Analog moods Digital minds"
+}, {
+	"type": "lecturer",
+	"first_name": "Michaël",
+	"name": "Wysmans",
+	"username": "michwy",
+	"ahs_email": "michwy@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fmichwy.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Inge",
-		"name": "Sintobin",
-		"username": "ingesi",
-		"ahs_email": "ingesi@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingesi.jpg?alt=media",
-		"quote": "Life is too short to waste time."
+	"quote": "Forget the mistake. Remember the lesson."
+}, {
+	"type": "lecturer",
+	"first_name": "Inge",
+	"name": "Sintobin",
+	"username": "ingesi",
+	"ahs_email": "ingesi@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingesi.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Dieter",
-		"name": "Wullaert",
-		"username": "dietwu",
-		"ahs_email": "dietwu@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fdietwu.jpg?alt=media",
-		"quote": "Research is the fuel for your ideas"
+	"quote": "Life is too short to waste time."
+}, {
+	"type": "lecturer",
+	"first_name": "Dieter",
+	"name": "Wullaert",
+	"username": "dietwu",
+	"ahs_email": "dietwu@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fdietwu.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Jonas",
-		"name": "Pottie",
-		"username": "jonapo",
-		"ahs_email": "jonapo@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjonapo.jpg?alt=media",
-		"quote": "All your base are belong to us."
+	"quote": "Research is the fuel for your ideas"
+}, {
+	"type": "lecturer",
+	"first_name": "Jonas",
+	"name": "Pottie",
+	"username": "jonapo",
+	"ahs_email": "jonapo@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjonapo.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Henk",
-		"name": "Willems",
-		"username": "henkwi",
-		"ahs_email": "henkwi@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhenkwi.jpg?alt=media",
-		"quote": "You have to become who you are."
+	"quote": "All your base are belong to us."
+}, {
+	"type": "lecturer",
+	"first_name": "Henk",
+	"name": "Willems",
+	"username": "henkwi",
+	"ahs_email": "henkwi@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhenkwi.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Johan",
-		"name": "De Loof",
-		"username": "johadl",
-		"ahs_email": "johadl@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjohadl.jpg?alt=media",
-		"quote": "Wie goed doet, goed ontmoet."
+	"quote": "You have to become who you are."
+}, {
+	"type": "lecturer",
+	"first_name": "Johan",
+	"name": "De Loof",
+	"username": "johadl",
+	"ahs_email": "johadl@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjohadl.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Carine",
-		"name": "Vermeulen",
-		"username": "carive",
-		"ahs_email": "carive@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fcarive.jpg?alt=media",
-		"quote": "Curiosity about life in all of its aspects, I think, is still the secret of great creative people"
+	"quote": "Wie goed doet, goed ontmoet."
+}, {
+	"type": "lecturer",
+	"first_name": "Carine",
+	"name": "Vermeulen",
+	"username": "carive",
+	"ahs_email": "carive@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fcarive.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Philippe",
-		"name": "De Pauw-Waterschoot",
-		"username": "phildp",
-		"ahs_email": "phildp@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fphildp.jpg?alt=media",
-		"quote": "Learning by doing."
+	"quote": "Curiosity about life in all of its aspects, I think, is still the secret of great creative people"
+}, {
+	"type": "lecturer",
+	"first_name": "Philippe",
+	"name": "De Pauw-Waterschoot",
+	"username": "phildp",
+	"ahs_email": "phildp@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fphildp.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Evelien",
-		"name": "Rutsaert",
-		"username": "evelru",
-		"ahs_email": "evelru@arteveldehs.be",
-		"quote": "Een dag niet gelachen is een dag niet geleefd."
+	"quote": "Learning by doing."
+}, {
+	"type": "lecturer",
+	"first_name": "Evelien",
+	"name": "Rutsaert",
+	"username": "evelru",
+	"ahs_email": "evelru@arteveldehs.be",
+	"quote": "Een dag niet gelachen is een dag niet geleefd."
+}, {
+	"type": "lecturer",
+	"first_name": "Bart",
+	"name": "Missant",
+	"username": "bartmi",
+	"ahs_email": "bartmi@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartmi.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Bart",
-		"name": "Missant",
-		"username": "bartmi",
-		"ahs_email": "bartmi@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartmi.jpg?alt=media",
-		"quote": "Wie niet in het water valt, kan niet surfen."
+	"quote": "Wie niet in het water valt, kan niet surfen."
+}, {
+	"type": "lecturer",
+	"first_name": "Hilde",
+	"name": "Vercruysse",
+	"username": "hildvc",
+	"ahs_email": "hildvc@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhildvc.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Hilde",
-		"name": "Vercruysse",
-		"username": "hildvc",
-		"ahs_email": "hildvc@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhildvc.jpg?alt=media",
-		"quote": "Always look on the bright side of life"
+	"quote": "Always look on the bright side of life"
+}, {
+	"type": "lecturer",
+	"first_name": "Nicky",
+	"name": "Malfliet",
+	"username": "nickma1",
+	"ahs_email": "nickma1@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fnickma1.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Nicky",
-		"name": "Malfliet",
-		"username": "nickma1",
-		"ahs_email": "nickma1@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fnickma1.jpg?alt=media",
-		"quote": "It's not enough to be up to date, be up for tomorrow!"
+	"quote": "It's not enough to be up to date, be up for tomorrow!"
+}, {
+	"type": "lecturer",
+	"first_name": "Joris",
+	"name": "Thys",
+	"username": "jorith",
+	"ahs_email": "jorith@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjorith.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Joris",
-		"name": "Thys",
-		"username": "jorith",
-		"ahs_email": "jorith@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjorith.jpg?alt=media",
-		"quote": "Alles komt wel goed!"
+	"quote": "Alles komt wel goed!"
+}, {
+	"type": "lecturer",
+	"first_name": "Annick",
+	"name": "De Laender",
+	"username": "annidl",
+	"ahs_email": "annidl@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannidl.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Annick",
-		"name": "De Laender",
-		"username": "annidl",
-		"ahs_email": "annidl@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannidl.jpg?alt=media",
-		"quote": "A lion doesn't sleep over the opinion of sheep."
+	"quote": "A lion doesn't sleep over the opinion of sheep."
+}, {
+	"type": "lecturer",
+	"first_name": "Bart",
+	"name": "Verstappen",
+	"username": "bartve3",
+	"ahs_email": "bartve3@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartve3.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Bart",
-		"name": "Verstappen",
-		"username": "bartve3",
-		"ahs_email": "bartve3@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartve3.jpg?alt=media",
-		"quote": "Geen enkele ervaring is voor niets."
+	"quote": "Geen enkele ervaring is voor niets."
+}, {
+	"type": "lecturer",
+	"first_name": "Hans",
+	"name": "Temmerman",
+	"username": "hanste",
+	"ahs_email": "hanste@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhanste.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Hans",
-		"name": "Temmerman",
-		"username": "hanste",
-		"ahs_email": "hanste@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhanste.jpg?alt=media",
-		"quote": "Three decades of more dreaming and less sleeping."
+	"quote": "Three decades of more dreaming and less sleeping."
+}, {
+	"type": "lecturer",
+	"first_name": "Jan",
+	"name": "Scheirlinckx",
+	"username": "jansch",
+	"ahs_email": "jansch@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjansch.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Jan",
-		"name": "Scheirlinckx",
-		"username": "jansch",
-		"ahs_email": "jansch@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjansch.jpg?alt=media",
-		"quote": "Er is een verschil tussen open-minded en een gat in uw hoofd."
+	"quote": "Er is een verschil tussen open-minded en een gat in uw hoofd."
+}, {
+	"type": "lecturer",
+	"first_name": "Saskia",
+	"name": "Callens",
+	"username": "saskca",
+	"ahs_email": "saskca@arteveldehs.be",
+	"quote": "Be a flamingo in a flock of pigeons."
+}, {
+	"type": "lecturer",
+	"first_name": "Jeroen",
+	"name": "Braeckman",
+	"username": "jerobr",
+	"ahs_email": "jerobr@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjerobr.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Saskia",
-		"name": "Callens",
-		"username": "saskca",
-		"ahs_email": "saskca@arteveldehs.be",
-		"quote": "Be a flamingo in a flock of pigeons."
+	"quote": "Less is more"
+}, {
+	"type": "lecturer",
+	"first_name": "Maarten",
+	"name": "Leenknecht",
+	"username": "maarle",
+	"ahs_email": "maarle@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fmaarle.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Jeroen",
-		"name": "Braeckman",
-		"username": "jerobr",
-		"ahs_email": "jerobr@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjerobr.jpg?alt=media",
-		"quote": "Less is more"
+	"quote": "Act, don’t react."
+}, {
+	"type": "lecturer",
+	"first_name": "Joris",
+	"name": "Verniest",
+	"username": "jorive1",
+	"ahs_email": "jorive1@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjorive1.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Maarten",
-		"name": "Leenknecht",
-		"username": "maarle",
-		"ahs_email": "maarle@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fmaarle.jpg?alt=media",
-		"quote": "Act, don’t react."
+	"quote": "Make it sound!"
+}, {
+	"type": "lecturer",
+	"first_name": "Karen",
+	"name": "D'Haeseleer",
+	"username": "karedh",
+	"ahs_email": "karedh@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkaredh.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Joris",
-		"name": "Verniest",
-		"username": "jorive1",
-		"ahs_email": "jorive1@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjorive1.jpg?alt=media",
-		"quote": "Make it sound!"
+	"quote": "Never be afraid to climb a tree or run through the sprinklers."
+}, {
+	"type": "lecturer",
+	"first_name": "Tom",
+	"name": "Neuttiens",
+	"username": "tomne",
+	"ahs_email": "tomne@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftomne.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Karen",
-		"name": "D'Haeseleer",
-		"username": "karedh",
-		"ahs_email": "karedh@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkaredh.jpg?alt=media",
-		"quote": "Never be afraid to climb a tree or run through the sprinklers."
+	"quote": "Always think in 3 dimensions."
+}, {
+	"type": "lecturer",
+	"first_name": "Jan",
+	"name": "De Meyer",
+	"username": "johade",
+	"ahs_email": "johade@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjohade.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Tom",
-		"name": "Neuttiens",
-		"username": "tomne",
-		"ahs_email": "tomne@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftomne.jpg?alt=media",
-		"quote": "Always think in 3 dimensions."
+	"quote": "Wees jezelf."
+}, {
+	"type": "lecturer",
+	"first_name": "Christel",
+	"name": "De Maeyer",
+	"username": "chride1",
+	"ahs_email": "chride1@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fchride1.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Jan",
-		"name": "De Meyer",
-		"username": "johade",
-		"ahs_email": "johade@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjohade.jpg?alt=media",
-		"quote": "Wees jezelf."
+	"quote": "We've got to go, where do we go? I don't know but we just got to go -Jack Kerouac"
+}, {
+	"type": "lecturer",
+	"first_name": "Tine",
+	"name": "Vancoillie",
+	"username": "tineva1",
+	"ahs_email": "tineva1@arteveldehs.be",
+	"picture": {
+		"original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftineva1.jpg?alt=media"
 	},
-	{
-		"type": "lecturer",
-		"first_name": "Christel",
-		"name": "De Maeyer",
-		"username": "chride1",
-		"ahs_email": "chride1@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fchride1.jpg?alt=media",
-		"quote": "We've got to go, where do we go? I don't know but we just got to go -Jack Kerouac"
-	},
-	{
-		"type": "lecturer",
-		"first_name": "Tine",
-		"name": "Vancoillie",
-		"username": "tineva1",
-		"ahs_email": "tineva1@arteveldehs.be",
-		"picture": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftineva1.jpg?alt=media",
-		"quote": "If you stumble make it part of the dance."
-	}
-]
+	"quote": "If you stumble make it part of the dance."
+}]
