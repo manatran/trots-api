@@ -1,0 +1,3762 @@
+[{
+  "type": "student",
+  "first_name": "Michèle",
+  "name": "Catteeuw",
+  "username": "michcatt1",
+  "student_number": "94586",
+  "ahs_email": "michcatt1@student.arteveldehs.be",
+  "personal_email": "michelecatteeuw@icloud.com",
+  "city": "Zwevegem",
+  "postal_code": "8550",
+  "quote": "Better an oops than a what if.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmichcatt1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmichcatt1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmichcatt1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmichcatt1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmichcatt1.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Florence",
+  "name": "Pluquet",
+  "username": "florpluq",
+  "student_number": "71667",
+  "ahs_email": "florpluq@student.arteveldehs.be",
+  "personal_email": "pluquet.florence@hotmail.com",
+  "city": "Kluizen",
+  "postal_code": "9940",
+  "quote": "Pluk de dag!",
+  "preferred_regions": ["Oost-Vlaanderen", "West-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fflorpluq_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fflorpluq_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fflorpluq_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fflorpluq_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fflorpluq.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Jonatan",
+  "name": "Moerman",
+  "username": "jonamoer",
+  "student_number": "83683",
+  "ahs_email": "jonamoer@student.arteveldehs.be",
+  "personal_email": "Jonatan.moerman@gmail.com",
+  "city": "Oostakker",
+  "postal_code": "9041",
+  "preferred_regions": ["audiovisuele sector"],
+  "quote": "My mama always said \"Life is like a chocolate box. You never know what you gonna get\"",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonamoer_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonamoer_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonamoer_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonamoer_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonamoer.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Tine",
+  "name": "Vancoillie",
+  "username": "tinevanc1",
+  "student_number": "82157",
+  "ahs_email": "tinevanc1@student.arteveldehs.be",
+  "personal_email": "vancoillie.tine@hotmail.com",
+  "city": "Houthulst",
+  "postal_code": "8650",
+  "quote": "If the plan doesn't work change the plan but never the goal",
+  "preferred_regions": ["Houthulst", "Diksmuide", "Roeselare", "Ieper"],
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Hannes",
+  "name": "Otté",
+  "username": "hannotte",
+  "student_number": "68203",
+  "ahs_email": "hannotte@student.arteveldehs.be",
+  "personal_email": "hannes.otte@gmail.com",
+  "city": "Deerlijk",
+  "postal_code": "8540",
+  "quote": "*zwaaizwaai*",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannotte_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannotte_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannotte_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannotte_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannotte.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Louis",
+  "name": "Vandecasteele",
+  "username": "louivand14",
+  "student_number": "91532",
+  "ahs_email": "louivand14@student.arteveldehs.be",
+  "personal_email": "louis.vdc@hotmail.com",
+  "city": "Zwevegem",
+  "postal_code": "8550",
+  "quote": "“At the end of the day, we can endure much more than we think we can.” — Frida Kahlo",
+  "preferred_regions": ["Gent", "Brussel", "Antwerpen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flouivand14_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flouivand14_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flouivand14_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flouivand14_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flouivand14.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Pieter",
+  "name": "Vleminckx",
+  "username": "pietvlem",
+  "student_number": "86663",
+  "ahs_email": "pietvlem@student.arteveldehs.be",
+  "personal_email": "pieter.vlem@gmail.com",
+  "preferred_regions": ["Oost-vlaanderen"],
+  "quote": "Stackoverflow did this",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpietvlem_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpietvlem_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpietvlem_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpietvlem_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpietvlem.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Annelien",
+  "name": "Haeghebaert",
+  "username": "annehaeg",
+  "student_number": "79935",
+  "ahs_email": "annehaeg@student.arteveldehs.be",
+  "personal_email": "annelien.haeghebaert@hotmail.com",
+  "quote": "Ik sta precies liever achter de camera dan ervoor. ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannehaeg_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannehaeg_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannehaeg_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannehaeg_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannehaeg.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Marie",
+  "name": "Van Landuyt",
+  "username": "marivanl",
+  "student_number": "82397",
+  "ahs_email": "marivanl@student.arteveldehs.be",
+  "personal_email": "marie.vlanduyt@gmail.com",
+  "quote": "Have the courage to live the life you want to.",
+  "preferred_regions": ["Gent", "London", "Berlin", "Zürich", "Toronto"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarivanl_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarivanl_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarivanl_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarivanl_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarivanl.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Hanne",
+  "name": "Loosveldt",
+  "username": "hannloos",
+  "student_number": "79539",
+  "ahs_email": "hannloos@student.arteveldehs.be",
+  "personal_email": "hanne.loosveldt@hotmail.com",
+  "city": "Deerlijk",
+  "postal_code": "8540",
+  "quote": "Say yes to new adventures.",
+  "preferred_regions": ["Kortrijk", "Waregem"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannloos_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannloos_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannloos_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannloos_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannloos.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Joran",
+  "name": "Vanhaste",
+  "username": "joravanh1",
+  "student_number": "82130",
+  "ahs_email": "joravanh1@student.arteveldehs.be",
+  "personal_email": "joran_van@hotmail.com",
+  "city": "Roeselare",
+  "postal_code": "8800",
+  "quote": "“IF IT CAN BE WRITTEN OR THOUGHT, IT CAN BE FILMED” – Stanley Kubrick",
+  "preferred_regions": ["Roeselare", "Brugge", "Izegem", "Kortrijk"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoravanh1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoravanh1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoravanh1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoravanh1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoravanh1.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Aude",
+  "name": "Vandecaveye",
+  "username": "audevand",
+  "student_number": "87809",
+  "ahs_email": "audevand@student.arteveldehs.be",
+  "personal_email": "audevandecaveye@hotmail.com",
+  "city": "Geluwe",
+  "postal_code": "8940",
+  "quote": "Pajamas. ALL DAY!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faudevand_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faudevand_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faudevand_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faudevand_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faudevand.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Lotte",
+  "name": "Pothé",
+  "username": "lottpoth",
+  "student_number": "95418",
+  "ahs_email": "lottpoth@student.arteveldehs.be",
+  "personal_email": "lottepothe@hotmail.com",
+  "city": "Kruishoutem",
+  "postal_code": "9770",
+  "preferred_regions": ["Oost-Vlaanderen", "West-Vlaanderen"],
+  "quote": "Be good to people for no reason. ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottpoth_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottpoth_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottpoth_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottpoth_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottpoth.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Yentl",
+  "name": "Longueville",
+  "username": "yentlong",
+  "student_number": "90200",
+  "ahs_email": "yentlong@student.arteveldehs.be",
+  "personal_email": "yentl1997@live.be",
+  "city": "Brugge",
+  "postal_code": "8000",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
+  "quote": "I got 99 problems but school ain't one.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyentlong_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyentlong_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyentlong_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyentlong_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyentlong.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Eveline",
+  "name": "Hoffelinck",
+  "username": "evelhoff",
+  "student_number": "87745",
+  "ahs_email": "evelhoff@student.arteveldehs.be",
+  "personal_email": "Hoffelinck.eveline@proximus.be ",
+  "city": "Belsele (Sint-Niklaas) ",
+  "postal_code": "9111",
+  "preferred_regions": ["Antwerpen", "Gent", "Sint-Niklaas"],
+  "quote": "I'm always in for a pizza",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevelhoff_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevelhoff_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevelhoff_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevelhoff_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevelhoff.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Lotte",
+  "name": "De Swaef",
+  "username": "lottdesw",
+  "student_number": "77624",
+  "ahs_email": "lottdesw@student.arteveldehs.be",
+  "personal_email": "deswaeflotte@gmail.com",
+  "city": "Gent",
+  "postal_code": "9030",
+  "quote": "Tomorrow (n.) • The best time to do everything you had planned for today.",
+  "preferred_regions": ["Oost-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottdesw_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottdesw_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottdesw_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottdesw_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flottdesw.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Orlane",
+  "name": "De Meyere",
+  "username": "orlademe",
+  "student_number": "91800",
+  "ahs_email": "orlademe@student.arteveldehs.be",
+  "personal_email": "orlane.demeyere@hotmail.com",
+  "city": "Loppem",
+  "postal_code": "8210",
+  "preferred_regions": ["Brugge"],
+  "quote": "the earth without 'art' is just 'eh'",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Forlademe_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Forlademe_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Forlademe_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Forlademe_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Forlademe.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Julien",
+  "name": "Cambier",
+  "username": "julicamb",
+  "student_number": "82768",
+  "ahs_email": "julicamb@student.arteveldehs.be",
+  "personal_email": "julienjfocambier@gmail.com",
+  "city": "Ellezelles",
+  "postal_code": "7890",
+  "quote": "It always seems impossible until it's done",
+  "preferred_regions": ["Gent", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulicamb_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulicamb_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulicamb_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulicamb_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulicamb.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Janneke",
+  "name": "Molem",
+  "username": "jannmole",
+  "student_number": "91068",
+  "ahs_email": "jannmole@student.arteveldehs.be",
+  "personal_email": "janneke_molem@hotmail.com",
+  "city": "Aalst",
+  "postal_code": "9300",
+  "preferred_regions": ["Aalst", "Gent "],
+  "quote": "Ik ben maar weer opgestaan want dat slapend rijk worden is me vannacht weer niet gelukt. ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjannmole_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjannmole_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjannmole_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjannmole_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjannmole.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Sarah",
+  "name": "Meysman",
+  "username": "sarameys",
+  "student_number": "90710",
+  "ahs_email": "sarameys@student.arteveldehs.be",
+  "personal_email": "sarahmeysman@hotmail.com",
+  "city": "Maldegem",
+  "quote": "Kalm e, zalm",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsarameys_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsarameys_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsarameys_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsarameys_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsarameys.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Kaat",
+  "name": "Craps",
+  "username": "kaatcrap",
+  "student_number": "88768",
+  "ahs_email": "kaatcrap@student.arteveldehs.be",
+  "personal_email": "kaatcraps@telenet.be",
+  "city": "Bever",
+  "postal_code": "1547",
+  "quote": "The sun will rise and I will try again",
+  "preferred_regions": ["Vlaamse Ardennen", "Halle", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkaatcrap_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkaatcrap_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkaatcrap_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkaatcrap_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkaatcrap.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Senne",
+  "name": "Vanfleteren",
+  "username": "sennvanf",
+  "student_number": "81947",
+  "ahs_email": "sennvanf@student.arteveldehs.be",
+  "city": "Nieuwpoort",
+  "postal_code": "8670",
+  "quote": "An  a day keeps the doctor away.",
+  "preferred_regions": ["Brugge"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsennvanf_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsennvanf_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsennvanf_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsennvanf_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsennvanf.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Sofie",
+  "name": "Van Speybroeck",
+  "username": "sofivans2",
+  "student_number": "78380",
+  "ahs_email": "sofivans2@student.arteveldehs.be",
+  "personal_email": "vanspeybroeck.sofie@hotmail.be",
+  "city": "Deinze",
+  "postal_code": "9800",
+  "preferred_regions": ["Gent"],
+  "quote": "Perseverance, secret of all triumphs.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivans2_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivans2_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivans2_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivans2_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivans2.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Rietje",
+  "name": "Van Hoof",
+  "username": "rietvanh",
+  "student_number": "87638",
+  "ahs_email": "rietvanh@student.arteveldehs.be",
+  "personal_email": "rietje_van_hoof@hotmail.com",
+  "city": "Bredene",
+  "postal_code": "8450",
+  "quote": "Be scared and do it anyway",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frietvanh_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frietvanh_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frietvanh_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frietvanh_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frietvanh.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Romy",
+  "name": "Ameryckx",
+  "username": "romyamer",
+  "student_number": "90100",
+  "ahs_email": "romyamer@student.arteveldehs.be",
+  "personal_email": "romy.ameryckx@gmail.com",
+  "city": "Zwevegem",
+  "postal_code": "8550",
+  "quote": "Only dead fish go with the flow",
+  "preferred_regions": ["Kortrijk", "Roeselare", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromyamer_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromyamer_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromyamer_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromyamer_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromyamer.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Stephanie",
+  "name": "De Muynck",
+  "username": "stepdemu",
+  "student_number": "86627",
+  "ahs_email": "stepdemu@student.arteveldehs.be",
+  "personal_email": "step.dm@hotmail.com",
+  "city": "Eeklo",
+  "postal_code": "9900",
+  "preferred_regions": ["Meetjesland", "Gent", "Brugge"],
+  "quote": "Life without cake is like cake without chocolate",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepdemu_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepdemu_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepdemu_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepdemu_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepdemu.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Jitske",
+  "name": "Segers",
+  "username": "jitssege",
+  "student_number": "89089",
+  "ahs_email": "jitssege@student.arteveldehs.be",
+  "city": "Merelbeke",
+  "postal_code": "9820",
+  "quote": "You never be ready if you keep waiting to be.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjitssege_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjitssege_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjitssege_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjitssege_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjitssege.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Gerbren",
+  "name": "De Smet",
+  "username": "gerbdesm",
+  "student_number": "84344",
+  "ahs_email": "gerbdesm@student.arteveldehs.be",
+  "personal_email": "Gerbrends@gmail.com ",
+  "city": "Zottegem ",
+  "postal_code": "9620",
+  "quote": "And so the adventure begins.",
+  "preferred_regions": ["Gent", "Zottegem", "Brussel "],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgerbdesm_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgerbdesm_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgerbdesm_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgerbdesm_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgerbdesm.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Jorina",
+  "name": "De Saeger",
+  "username": "joridesa",
+  "student_number": "87582",
+  "ahs_email": "joridesa@student.arteveldehs.be",
+  "personal_email": "jorinadesaeger@gmail.com",
+  "city": "Dendermonde",
+  "postal_code": "9200",
+  "quote": "Het is de tegenwind die de vlieger doet stijgen.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoridesa_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoridesa_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoridesa_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoridesa_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoridesa.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Anneke",
+  "name": "Vanhove",
+  "username": "annevanh8",
+  "student_number": "76672",
+  "ahs_email": "annevanh8@student.arteveldehs.be",
+  "personal_email": "vanhove.anneke@gmail.com",
+  "city": "Houthulst - Merkem",
+  "postal_code": "8650",
+  "quote": "The way to get started is to quit talking and begin doing!",
+  "preferred_regions": ["Roeselare", "Ieper", "Brugge", "Diksmuide"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannevanh8_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannevanh8_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannevanh8_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannevanh8_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannevanh8.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Elke",
+  "name": "Borreij",
+  "username": "elkeborr",
+  "student_number": "81842",
+  "ahs_email": "elkeborr@student.arteveldehs.be",
+  "personal_email": "elkeborrey@gmail.com",
+  "city": "Mechelen ",
+  "postal_code": "2800",
+  "quote": "Lorem Ipsum",
+  "preferred_regions": ["Antwerpen", "Mechelen "],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felkeborr_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felkeborr_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felkeborr_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felkeborr_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felkeborr.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Liselot",
+  "name": "De Wulf",
+  "username": "lisedewu",
+  "student_number": "97094",
+  "ahs_email": "lisedewu@student.arteveldehs.be",
+  "personal_email": "Liselotdewulf@gmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "Life is made of small moments like this",
+  "preferred_regions": ["Gent", "Gentbrugge", "Wetteren", "Sint-Martens-Latem", "Lochristi", "Melle"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisedewu_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisedewu_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisedewu_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisedewu_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisedewu.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Niels",
+  "name": "Cappelle",
+  "username": "nielcapp1",
+  "student_number": "70323",
+  "ahs_email": "nielcapp1@student.arteveldehs.be",
+  "personal_email": "cappelleniels@hotmail.com",
+  "city": "Reningelst",
+  "postal_code": "8970",
+  "preferred_regions": ["Poperinge", "Ieper", "Kortrijk"],
+  "quote": "Je wit va woa dak zin, eni?",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnielcapp1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnielcapp1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnielcapp1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnielcapp1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnielcapp1.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Ruben",
+  "name": "Devlieger",
+  "username": "rubedevl1",
+  "student_number": "96892",
+  "ahs_email": "rubedevl1@student.arteveldehs.be",
+  "city": "Roeselare",
+  "postal_code": "8800",
+  "quote": "Zot zijn doet geen zeer.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frubedevl1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frubedevl1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frubedevl1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frubedevl1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frubedevl1.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Elise",
+  "name": "Boxstaele",
+  "username": "elisboxs",
+  "student_number": "7888332904256",
+  "ahs_email": "elisboxs@student.arteveldehs.be",
+  "personal_email": "elise.boxstaele@telenet.be",
+  "city": "Eke-Nazareth",
+  "postal_code": "9810",
+  "preferred_regions": ["Oost-Vlaanderen"],
+  "quote": "I'm silently judging your font choice",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisboxs_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisboxs_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisboxs_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisboxs_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisboxs.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Sofie",
+  "name": "Van Crombrugge",
+  "username": "sofivanc2",
+  "student_number": "77831",
+  "ahs_email": "sofivanc2@student.arteveldehs.be",
+  "personal_email": "sofie-vc@outlook.com",
+  "city": "Ronse",
+  "postal_code": "9600",
+  "preferred_regions": ["Gent"],
+  "quote": "It takes real skills to fall up the stairs and trip over nothing. I have those skills.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivanc2_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivanc2_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivanc2_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivanc2_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivanc2.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Adriaan",
+  "name": "Glibert",
+  "username": "adriglib",
+  "student_number": "89815",
+  "ahs_email": "adriglib@student.arteveldehs.be",
+  "personal_email": "adriaanglibert@hotmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "preferred_regions": ["Gent", "Ronse", "Brussel"],
+  "quote": "Life, euh, finds a way",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fadriglib_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fadriglib_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fadriglib_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fadriglib_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fadriglib.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Astrid",
+  "name": "van de Graaf",
+  "username": "astrvand8",
+  "student_number": "86161",
+  "ahs_email": "astrvand8@student.arteveldehs.be",
+  "personal_email": "astridvandeg@gmail.com",
+  "city": "Merchtem",
+  "postal_code": "1785",
+  "quote": "The pursuit, even of the best things, ought to be calm and tranquil. (Cicero)",
+  "preferred_regions": ["Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fastrvand8_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fastrvand8_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fastrvand8_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fastrvand8_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fastrvand8.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Alissa",
+  "name": "Ooms",
+  "username": "alisooms",
+  "student_number": "76229",
+  "ahs_email": "alisooms@student.arteveldehs.be",
+  "personal_email": "alissa.ooms1@gmail.com",
+  "quote": "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek. - B. Obama",
+  "preferred_regions": ["Antwerpen", "Aalst", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falisooms_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falisooms_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falisooms_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falisooms_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falisooms.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Jolien",
+  "name": "Roos",
+  "username": "joliroos",
+  "student_number": "84403",
+  "ahs_email": "joliroos@student.arteveldehs.be",
+  "personal_email": "hello@jolienroos.be",
+  "city": "Melle",
+  "postal_code": "9090",
+  "quote": "Believe in your infinite potential. Your only limitations are those you set upon yourself.",
+  "preferred_regions": ["Oost-Vlaanderen", "West-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoliroos_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoliroos_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoliroos_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoliroos_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjoliroos.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Nina",
+  "name": "Ampe",
+  "username": "ninaampe",
+  "student_number": "96677",
+  "ahs_email": "ninaampe@student.arteveldehs.be",
+  "personal_email": "ampe.nina@hotmail.com",
+  "city": "Oostrozebeke",
+  "postal_code": "8780",
+  "quote": "Carpe Diem",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fninaampe_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fninaampe_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fninaampe_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fninaampe_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fninaampe.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Lennert",
+  "name": "Degelin",
+  "username": "lenndege",
+  "student_number": "91335",
+  "ahs_email": "lenndege@student.arteveldehs.be",
+  "personal_email": "lennert.degelin@telenet.be",
+  "city": "Nieuwkerken-Waas",
+  "postal_code": "9100",
+  "quote": "Wat minder zuur en wat meer avontuur!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flenndege_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flenndege_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flenndege_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flenndege_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flenndege.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Robbe",
+  "name": "Konings",
+  "username": "robbkoni",
+  "student_number": "81941",
+  "ahs_email": "robbkoni@student.arteveldehs.be",
+  "personal_email": "koningsrobbe@gmail.com",
+  "city": "Zelzate",
+  "postal_code": "9060",
+  "quote": "Mijn portfolio: vimeo.com/rokonproductions",
+  "preferred_regions": ["Gent", "Zelzate", "Brussel", "Antwerpen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbkoni_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbkoni_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbkoni_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbkoni_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbkoni.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Mathias",
+  "name": "Van Sele",
+  "username": "mathvans1",
+  "student_number": "83692",
+  "ahs_email": "mathvans1@student.arteveldehs.be",
+  "personal_email": "mathias.van.sele@gmail.com",
+  "city": "Gent",
+  "postal_code": "9040",
+  "preferred_regions": ["Gent", "Antwerpen", "Brussel"],
+  "quote": "Friends don't lie",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathvans1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathvans1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathvans1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathvans1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathvans1.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Siel",
+  "name": "Blondeel",
+  "username": "sielblon",
+  "student_number": "87544",
+  "ahs_email": "sielblon@student.arteveldehs.be",
+  "personal_email": "sielblondeel@hotmail.be",
+  "city": "Sint-Laureins",
+  "postal_code": "9980",
+  "quote": "'t Leven is als een frikandel, je moet het zelf speciaal maken",
+  "preferred_regions": ["Gent", "Mariakerke", "Sint-Laureins"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsielblon_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsielblon_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsielblon_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsielblon_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsielblon.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Nicky",
+  "name": "De Knibber",
+  "username": "nickdekn",
+  "student_number": "2294643448",
+  "ahs_email": "nickdekn@student.arteveldehs.be",
+  "personal_email": "nicky_best@hotmail.com",
+  "city": "Haaltert",
+  "postal_code": "9450",
+  "quote": "A creative mind is a healthy mind",
+  "preferred_regions": ["Brussel", "Gent", "Aalst", "Oost-vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnickdekn_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnickdekn_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnickdekn_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnickdekn_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnickdekn.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Manon",
+  "name": "Langbeen",
+  "username": "manolang",
+  "student_number": "90124",
+  "ahs_email": "manolang@student.arteveldehs.be",
+  "personal_email": "manonlangbeen@hotmail.com",
+  "city": "Torhout",
+  "postal_code": "8820",
+  "quote": "Doubt kills more dreams than failure ever will",
+  "preferred_regions": ["Brugge", "Roeselare", "Kortrijk", "Gent", "Oostende"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanolang_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanolang_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanolang_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanolang_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanolang.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Vreni",
+  "name": "De Schrijver",
+  "username": "vrendesc",
+  "student_number": "84463",
+  "ahs_email": "vrendesc@student.arteveldehs.be",
+  "personal_email": "Vrenids@hotmail.com",
+  "city": "Baardegem",
+  "postal_code": "9310",
+  "quote": "It always seems impossible until it's done",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvrendesc_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvrendesc_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvrendesc_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvrendesc_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvrendesc.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Marlies",
+  "name": "Stevens",
+  "username": "marlstev1",
+  "student_number": "201378331",
+  "ahs_email": "marlstev1@student.arteveldehs.be",
+  "personal_email": "marlies.stevens@hotmail.com",
+  "city": "Bavikhove",
+  "postal_code": "8531",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
+  "quote": "Tegen wanneer was die quote nu weer?",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarlstev1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarlstev1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarlstev1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarlstev1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarlstev1.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Shelsey",
+  "name": "Pattyn",
+  "username": "shelpatt",
+  "student_number": "96893",
+  "ahs_email": "shelpatt@student.arteveldehs.be",
+  "personal_email": "shelseypat@hotmail.com",
+  "city": "Moorslede",
+  "postal_code": "8890",
+  "preferred_regions": ["Gent"],
+  "quote": "Winter is coming!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fshelpatt_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fshelpatt_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fshelpatt_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fshelpatt_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fshelpatt.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Dara",
+  "name": "De Coensel",
+  "username": "daradeco",
+  "student_number": "88007",
+  "ahs_email": "daradeco@student.arteveldehs.be",
+  "personal_email": "daradecoensel@hotmail.com",
+  "quote": "Mik op de maan, als je die mist komt je toch tussen de sterren terecht.",
+  "preferred_regions": ["Gent", "Leuven", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaradeco_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaradeco_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaradeco_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaradeco_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaradeco.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Lotte",
+  "name": "Hen Ruan",
+  "username": "lotthenr",
+  "student_number": "77402",
+  "ahs_email": "lotthenr@student.arteveldehs.be",
+  "personal_email": "lotte.hen.ruan@hotmail.com",
+  "city": "Oudenaarde",
+  "postal_code": "9700",
+  "quote": "There is no one better than you at what you do.",
+  "preferred_regions": ["Oudenaarde", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flotthenr_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flotthenr_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flotthenr_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flotthenr_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flotthenr.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Suzanne",
+  "name": "Petersen",
+  "username": "suzapete",
+  "student_number": "80903",
+  "ahs_email": "suzapete@student.arteveldehs.be",
+  "personal_email": "suzanne.petersen12@hotmail.com",
+  "city": "Drongen",
+  "postal_code": "9031",
+  "quote": "if it doesn't CHALLENGE you, it doesn't CHANGE you",
+  "preferred_regions": ["Gent", "Antwerpen", "Brussel "],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzapete_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzapete_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzapete_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzapete_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzapete.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Clarisse",
+  "name": "Slabbinck",
+  "username": "clarslab",
+  "student_number": "88593",
+  "ahs_email": "clarslab@student.arteveldehs.be",
+  "personal_email": "Clarisse.slabbinck@gmail.com",
+  "city": "Jabbeke",
+  "postal_code": "8490",
+  "quote": "Underestimate me. That'll be fun.",
+  "preferred_regions": ["Brugge", "Kortrijk", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fclarslab_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fclarslab_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fclarslab_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fclarslab_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fclarslab.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Anneleen",
+  "name": "Peeters",
+  "username": "annepeet2",
+  "student_number": "87451",
+  "ahs_email": "annepeet2@student.arteveldehs.be",
+  "personal_email": "anneleenpeeters02@gmail.com",
+  "city": "Retie",
+  "postal_code": "2470",
+  "preferred_regions": ["Antwerpen", "Turnhout", "Eindhoven"],
+  "quote": "Even on my worst day I'm killing it",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannepeet2_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannepeet2_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannepeet2_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannepeet2_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fannepeet2.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Rani",
+  "name": "Vanpoucke",
+  "username": "ranivanp",
+  "student_number": "87487",
+  "ahs_email": "ranivanp@student.arteveldehs.be",
+  "personal_email": "rani.vanpoucke@student.arteveldehs.be",
+  "city": "Waregem",
+  "postal_code": "8790",
+  "quote": "Looks like we made it!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Franivanp_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Franivanp_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Franivanp_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Franivanp_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Franivanp.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Silvio",
+  "name": "Samyn",
+  "username": "silvsamy",
+  "student_number": "87931",
+  "ahs_email": "silvsamy@student.arteveldehs.be",
+  "personal_email": "silvio.samyn@hotmail.com",
+  "city": "Moorslede",
+  "postal_code": "8890",
+  "preferred_regions": ["Roeselare", "Brugge", "Kortrijk"],
+  "quote": "Adventure awaits… for those who dare to imagine",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsilvsamy_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsilvsamy_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsilvsamy_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsilvsamy_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsilvsamy.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Emmely",
+  "name": "Venneman",
+  "username": "emmevenn",
+  "student_number": "84765",
+  "ahs_email": "emmevenn@student.arteveldehs.be",
+  "personal_email": "emmely.venneman@hotmail.com",
+  "city": "Kalken",
+  "postal_code": "9270",
+  "preferred_regions": ["Gent", "Wetteren", "Aalst"],
+  "quote": "If opportunity doesn't knock, build a door",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Femmevenn_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Femmevenn_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Femmevenn_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Femmevenn_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Femmevenn.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Elise",
+  "name": "Dewerte",
+  "username": "elisdewe",
+  "student_number": "88648",
+  "ahs_email": "elisdewe@student.arteveldehs.be",
+  "personal_email": "dewerte.elise@hotmail.com",
+  "city": "Lovendegem",
+  "postal_code": "9920",
+  "quote": "Don't be sad, because sad spelled backwards is das, and das not good",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisdewe_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisdewe_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisdewe_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisdewe_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felisdewe.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Maxim",
+  "name": "Termote",
+  "username": "maxiterm",
+  "student_number": "84981",
+  "ahs_email": "maxiterm@student.arteveldehs.be",
+  "personal_email": "info@maximtermote.com",
+  "city": "Zedelgem",
+  "postal_code": "8210",
+  "quote": "Everything has been done before. Do it better!",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen", "Antwerpen", "Vlaams-Brabant", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxiterm_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxiterm_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxiterm_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxiterm_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxiterm.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Bert",
+  "name": "Brichau",
+  "username": "bertbric",
+  "student_number": "89602",
+  "ahs_email": "bertbric@student.arteveldehs.be",
+  "personal_email": "burdsdesign@gmail.com",
+  "preferred_regions": ["Gent", "Aalst"],
+  "quote": "I tried! I won!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertbric_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertbric_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertbric_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertbric_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertbric.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Diederik",
+  "name": "De Soete",
+  "username": "dieddeso",
+  "student_number": "82937",
+  "ahs_email": "dieddeso@student.arteveldehs.be",
+  "personal_email": "diederik.desoete96@gmail.com",
+  "city": "Zedelgem",
+  "postal_code": "8210",
+  "quote": "I got to thinking. Maybe I'm the Dragonborn, I just don't know it yet.",
+  "preferred_regions": ["Gent", "Brugge"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdieddeso_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdieddeso_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdieddeso_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdieddeso_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdieddeso.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04b"
+}, {
+  "type": "student",
+  "first_name": "Julie",
+  "name": "De Clercq",
+  "username": "julidecl1",
+  "student_number": "86871",
+  "ahs_email": "julidecl1@student.arteveldehs.be",
+  "personal_email": "de.clercq.julie@outlook.com",
+  "city": "9000",
+  "postal_code": "Gent",
+  "preferred_regions": ["Gent", "Antwerpen", "Brussel"],
+  "quote": "My brain has too many tabs open",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulidecl1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulidecl1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulidecl1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulidecl1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjulidecl1.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Ciska",
+  "name": "Callens",
+  "username": "ciskcall",
+  "student_number": "77369",
+  "ahs_email": "ciskcall@student.arteveldehs.be",
+  "personal_email": "ciskacallens@hotmail.com",
+  "city": "Wijtschate",
+  "postal_code": "8953",
+  "preferred_regions": ["Oost- en West-Vlaanderen"],
+  "quote": "If your dreams don't scare you, they are not big enough.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fciskcall_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fciskcall_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fciskcall_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fciskcall_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fciskcall.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Mathy",
+  "name": "Lippens",
+  "username": "mathlipp",
+  "student_number": "93419",
+  "ahs_email": "mathlipp@student.arteveldehs.be",
+  "personal_email": "mathy.lippens@gmail.com",
+  "city": "Kluisbergen",
+  "postal_code": "9690",
+  "preferred_regions": ["Gent", "Kortrijk", "Abroad"],
+  "quote": "Live, Life, Loof",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathlipp_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathlipp_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathlipp_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathlipp_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathlipp.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Yana",
+  "name": "Vandenborre",
+  "username": "yanavand4",
+  "student_number": "87109",
+  "ahs_email": "yanavand4@student.arteveldehs.be",
+  "personal_email": "yana.vandenborre@hotmail.com",
+  "preferred_regions": ["Ronse", "Oudenaarde", "Kortrijk", "Gent"],
+  "quote": "But first, coffee",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyanavand4_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyanavand4_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyanavand4_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyanavand4_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyanavand4.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Kristof",
+  "name": "Lettens",
+  "username": "krislett",
+  "student_number": "85281",
+  "ahs_email": "krislett@student.arteveldehs.be",
+  "personal_email": "kristof.lettens@hotmail.com",
+  "city": "Affligem",
+  "postal_code": "1790",
+  "preferred_regions": ["Vlaams-Brabant", "Oost-Vlaanderen"],
+  "quote": "Ik ben mij vergeten scheren.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkrislett_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkrislett_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkrislett_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkrislett_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkrislett.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Robin",
+  "name": "Janssens",
+  "username": "robijans",
+  "student_number": "91055",
+  "ahs_email": "robijans@student.arteveldehs.be",
+  "personal_email": "robinjanssens1982@gmail.com",
+  "city": "Aalst",
+  "postal_code": "9300",
+  "quote": "The answer that you seek is exactly where you're not looking",
+  "preferred_regions": ["Aalst", "Gent", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobijans_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobijans_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobijans_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobijans_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobijans.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Jochen",
+  "name": "De Clercq",
+  "username": "jochdecl",
+  "student_number": "82191",
+  "ahs_email": "jochdecl@student.arteveldehs.be",
+  "personal_email": "jochen.de.clercq@gmail.com",
+  "city": "Vlierzele",
+  "postal_code": "9520",
+  "preferred_regions": ["Gent", "Aalst"],
+  "quote": "Acht jaar op de hogeschool, ik kon al dokter zijn.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjochdecl_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjochdecl_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjochdecl_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjochdecl_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjochdecl.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Hanne",
+  "name": "Moors",
+  "username": "hannmoor",
+  "student_number": "95416",
+  "ahs_email": "hannmoor@student.arteveldehs.be",
+  "personal_email": "hannemoors_@hotmail.com",
+  "city": "Hamont-Achel",
+  "postal_code": "3930",
+  "quote": "Logic will get you from A to B. Imagination will take you everywhere.",
+  "preferred_regions": ["Limburg"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannmoor_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannmoor_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannmoor_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannmoor_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannmoor.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Anke",
+  "name": "Braeckman",
+  "username": "ankebrae1",
+  "student_number": "85537",
+  "ahs_email": "ankebrae1@student.arteveldehs.be",
+  "personal_email": "ankebraeckman@hotmail.com",
+  "city": "Beervelde",
+  "postal_code": "9080",
+  "preferred_regions": ["Lochristi", "Gent", "Wetteren", "Lokeren"],
+  "quote": "I don't know where i'm going but I'm on my way",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fankebrae1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fankebrae1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fankebrae1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fankebrae1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fankebrae1.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Darlynne",
+  "name": "Lijbaert",
+  "username": "darllijb",
+  "student_number": "75443",
+  "ahs_email": "darllijb@student.arteveldehs.be",
+  "quote": "A negative mind will never give you a positive life",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdarllijb_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdarllijb_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdarllijb_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdarllijb_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdarllijb.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Lisa",
+  "name": "Pittoors",
+  "username": "lisapitt",
+  "student_number": "85434",
+  "ahs_email": "lisapitt@student.arteveldehs.be",
+  "personal_email": "lisa.pittoors@hotmail.com",
+  "city": "Lennik",
+  "postal_code": "1750",
+  "quote": "Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan.",
+  "preferred_regions": ["Vlaams Brabant"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisapitt_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisapitt_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisapitt_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisapitt_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flisapitt.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Stijn",
+  "name": "Gevens",
+  "username": "stijgeve",
+  "student_number": "79936",
+  "ahs_email": "stijgeve@student.arteveldehs.be",
+  "personal_email": "stijn.gevens@gmail.com",
+  "city": "Assebroek",
+  "postal_code": "8310",
+  "quote": "Clients are the difference between design and art.",
+  "preferred_regions": ["Gent", "Brugge", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstijgeve_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstijgeve_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstijgeve_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstijgeve_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstijgeve.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Aurelio",
+  "name": "Decock",
+  "username": "auredeco",
+  "student_number": "77213",
+  "ahs_email": "auredeco@student.arteveldehs.be",
+  "personal_email": "aureliodecock@gmail.com",
+  "city": "Harelbeke",
+  "postal_code": "8530",
+  "quote": "There is no place like 127.0.0.1",
+  "preferred_regions": ["Kortrijk", "Waregem", "Roeselare", "Gent", "Brugge"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fauredeco_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fauredeco_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fauredeco_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fauredeco_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fauredeco.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Evi",
+  "name": "Bulteel",
+  "username": "evibulte",
+  "student_number": "87753",
+  "ahs_email": "evibulte@student.arteveldehs.be",
+  "personal_email": "evi.bulteel@hotmail.com",
+  "quote": "Good, better, best. Never let it rest. 'Til your good is better and your better is best. - St. Jerome",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevibulte_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevibulte_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevibulte_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevibulte_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fevibulte.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Daphne",
+  "name": "Scherpereel",
+  "username": "daphsche1",
+  "student_number": "88077",
+  "ahs_email": "daphsche1@student.arteveldehs.be",
+  "personal_email": "daphne.scherpereel@gmail.com",
+  "city": "Avelgem",
+  "postal_code": "8580",
+  "quote": "Do what you have to do until you can do what you want to do.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaphsche1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaphsche1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaphsche1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaphsche1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaphsche1.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04b"
+}, {
+  "type": "student",
+  "first_name": "Altin",
+  "name": "Mulaj",
+  "username": "altimula",
+  "student_number": "82992",
+  "ahs_email": "altimula@student.arteveldehs.be",
+  "personal_email": "altinmulaj@gmail.com",
+  "city": "Brugge",
+  "postal_code": "8200",
+  "quote": "We all make choices in life, but in the end our choices make us.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faltimula_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faltimula_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faltimula_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faltimula_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Faltimula.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Bastien",
+  "name": "Devalckeneer",
+  "username": "bastdeva",
+  "student_number": "95100",
+  "ahs_email": "bastdeva@student.arteveldehs.be",
+  "personal_email": "hello@bastiendevalck.be",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "Nothing makes me more productive than the last minute.",
+  "preferred_regions": ["Gent", "Antwerpen", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbastdeva_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbastdeva_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbastdeva_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbastdeva_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbastdeva.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Ana",
+  "name": "Van Melckebeke",
+  "username": "anavanme",
+  "student_number": "88314",
+  "ahs_email": "anavanme@student.arteveldehs.be",
+  "personal_email": "ana.van.melckebeke@gmail.com",
+  "city": "Aalst",
+  "postal_code": "9300",
+  "preferred_regions": ["Oost-Vlaanderen"],
+  "quote": "Always wear your thinking cap with your party shoes",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanavanme_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanavanme_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanavanme_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanavanme_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanavanme.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Stephanie",
+  "name": "Mesens",
+  "username": "stepmese",
+  "student_number": "201696301",
+  "ahs_email": "stepmese@student.arteveldehs.be",
+  "personal_email": "stephaniemesens@hotmail.com",
+  "city": "Herent",
+  "postal_code": "3020",
+  "quote": "Life is a combination of magic and pasta",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepmese_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepmese_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepmese_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepmese_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstepmese.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Barbara",
+  "name": "Courtens",
+  "username": "barbcour",
+  "student_number": "74139",
+  "ahs_email": "barbcour@student.arteveldehs.be",
+  "personal_email": "barbara.courtens@hotmail.com",
+  "city": "Waregem",
+  "postal_code": "8790",
+  "quote": "Sometimes we have to stop being scared and just go for it. Either it'll work or it won't. That is life.",
+  "preferred_regions": ["Gent", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbarbcour_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbarbcour_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbarbcour_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbarbcour_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbarbcour.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Lukas",
+  "name": "Blondeel",
+  "username": "lukablon",
+  "student_number": "91301",
+  "ahs_email": "lukablon@student.arteveldehs.be",
+  "personal_email": "lukasblondeel@hotmail.com",
+  "city": "Kortrijk",
+  "postal_code": "8500",
+  "quote": "I now walk into the wild",
+  "preferred_regions": ["Kortrijk", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flukablon_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flukablon_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flukablon_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flukablon_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flukablon.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Daan",
+  "name": "Meert",
+  "username": "daanmeer",
+  "student_number": "90605",
+  "ahs_email": "daanmeer@student.arteveldehs.be",
+  "personal_email": "daanmeert94@gmail.com",
+  "city": "Aalst",
+  "postal_code": "9300",
+  "quote": "Error 404. Looks like this quote doesn't exist.",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaanmeer_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaanmeer_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaanmeer_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaanmeer_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdaanmeer.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Simon",
+  "name": "Blondeel",
+  "username": "simoblon",
+  "student_number": "201693398",
+  "ahs_email": "simoblon@student.arteveldehs.be",
+  "personal_email": "simonblondeel@hotmail.com",
+  "city": "Roeselare",
+  "postal_code": "8800",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
+  "quote": "Without a goal you can't score.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimoblon_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimoblon_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimoblon_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimoblon_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimoblon.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Lode",
+  "name": "Muylaert",
+  "username": "lodemuyl",
+  "student_number": "83222",
+  "ahs_email": "lodemuyl@student.arteveldehs.be",
+  "personal_email": "lode.muylaert@hotmail.com",
+  "city": "Haaltert",
+  "postal_code": "9450",
+  "quote": "the end is always near",
+  "preferred_regions": ["Aalst", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flodemuyl_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flodemuyl_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flodemuyl_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flodemuyl_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flodemuyl.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Nomi",
+  "name": "Van Gool",
+  "username": "nomivang",
+  "student_number": "89699",
+  "ahs_email": "nomivang@student.arteveldehs.be",
+  "personal_email": "nomivangool@gmail.com",
+  "city": "Affligem",
+  "postal_code": "1790",
+  "quote": "My nightmares are in Comic Sans",
+  "preferred_regions": ["Oost-Vlaanderen", "Vlaams-Brabant"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnomivang_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnomivang_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnomivang_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnomivang_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnomivang.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Laurence",
+  "name": "Audenaert",
+  "username": "lauraude",
+  "student_number": "71752",
+  "ahs_email": "lauraude@student.arteveldehs.be",
+  "personal_email": "audenaert.laurence@gmail.com",
+  "quote": "Zalig.",
+  "preferred_regions": ["Gent", "Amsterdam", "Berlijn", "Sydney"],
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Jordy",
+  "name": "Vermeire",
+  "username": "jordverm",
+  "student_number": "90980",
+  "ahs_email": "jordverm@student.arteveldehs.be",
+  "personal_email": "jordy.vermeire@gmail.com",
+  "city": "Wingene",
+  "postal_code": "8750",
+  "quote": "The only limit is the one you set yourself",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjordverm_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjordverm_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjordverm_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjordverm_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjordverm.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Kato",
+  "name": "Notebaert",
+  "username": "katonote",
+  "student_number": "87490",
+  "ahs_email": "katonote@student.arteveldehs.be",
+  "personal_email": "Kato.notebaert@hotmail.be",
+  "city": "Eppegem",
+  "postal_code": "1980",
+  "quote": "Kato: korte a, één t.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkatonote_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkatonote_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkatonote_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkatonote_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkatonote.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Tomas",
+  "name": "Hoste",
+  "username": "tomahost",
+  "student_number": "86532",
+  "ahs_email": "tomahost@student.arteveldehs.be",
+  "personal_email": "tomas.hoste@hotmail.com",
+  "city": "Deurle",
+  "postal_code": "9831",
+  "quote": "The world is a book, and those who don't travel only read one page.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftomahost_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftomahost_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftomahost_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftomahost_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftomahost.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Tristan",
+  "name": "Steyaert",
+  "username": "trisstey",
+  "student_number": "85670",
+  "ahs_email": "trisstey@student.arteveldehs.be",
+  "personal_email": "Tristan Steyaert",
+  "city": "Zelzate",
+  "postal_code": "9060",
+  "preferred_regions": ["Gent", "Zelzate"],
+  "quote": "The risk I took was calculated, but man, am I bad at math. ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftrisstey_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftrisstey_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftrisstey_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftrisstey_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftrisstey.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Aline",
+  "name": "Adins",
+  "username": "alinadin",
+  "student_number": "82608",
+  "ahs_email": "alinadin@student.arteveldehs.be",
+  "personal_email": "aline.adins@gmail.com",
+  "city": "Geraardsbergen",
+  "postal_code": "9500",
+  "preferred_regions": ["Brussel", "Gent"],
+  "quote": "AdrenALINE",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falinadin_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falinadin_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falinadin_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falinadin_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Falinadin.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Jodie",
+  "name": "De Greef",
+  "username": "jodidegr",
+  "student_number": "81817",
+  "ahs_email": "jodidegr@student.arteveldehs.be",
+  "personal_email": "jodiedegreef@hotmail.com",
+  "city": "Lennik",
+  "postal_code": "1750",
+  "quote": "Eindelijk.",
+  "preferred_regions": ["Gent", "Brussel", "Halle"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjodidegr_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjodidegr_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjodidegr_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjodidegr_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjodidegr.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Céline",
+  "name": "Janssens",
+  "username": "celijans1",
+  "student_number": "88071",
+  "ahs_email": "celijans1@student.arteveldehs.be",
+  "personal_email": "Janssensceline@live.be",
+  "city": "Sint-Gillis-Waas",
+  "postal_code": "9170",
+  "quote": "Niet te zotjes met je nieuwe botjes",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelijans1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelijans1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelijans1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelijans1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelijans1.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Manou",
+  "name": "Ramboer",
+  "username": "manoramb",
+  "student_number": "89438",
+  "ahs_email": "manoramb@student.arteveldehs.be",
+  "personal_email": "manou.ramboer@hotmail.be",
+  "city": "Koekelare",
+  "postal_code": "8680",
+  "quote": "Don't stop until you're proud",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanoramb_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanoramb_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanoramb_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanoramb_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmanoramb.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Yne",
+  "name": "Van De Mergel",
+  "username": "ynevande",
+  "student_number": "80433",
+  "ahs_email": "ynevande@student.arteveldehs.be",
+  "personal_email": "ynevdm@gmail.com",
+  "city": "Waregem",
+  "postal_code": "8790",
+  "preferred_regions": ["Verenigd Koninkrijk", "Brussel", "Gent"],
+  "quote": "Kben nog nie zo achterlijk als ik eruit zie",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fynevande_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fynevande_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fynevande_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fynevande_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fynevande.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Sören",
+  "name": "Laurier",
+  "username": "sorelaur",
+  "student_number": "90957",
+  "ahs_email": "sorelaur@student.arteveldehs.be",
+  "personal_email": "soren.laurier@gmail.com",
+  "quote": "t Leven is geen ponykamp",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsorelaur_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsorelaur_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsorelaur_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsorelaur_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsorelaur.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Marie",
+  "name": "Gielen",
+  "username": "marigiel",
+  "student_number": "87317",
+  "ahs_email": "marigiel@student.arteveldehs.be",
+  "personal_email": "marie_gielen@hotmail.com",
+  "city": "Sint-Eloois-Winkel",
+  "postal_code": "8880",
+  "preferred_regions": ["Gent", "West-Vlaanderen"],
+  "quote": "Niet te fel e, forel",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarigiel_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarigiel_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarigiel_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarigiel_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmarigiel.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Linde",
+  "name": "Ghyselen",
+  "username": "lindghys",
+  "student_number": "90893",
+  "ahs_email": "lindghys@student.arteveldehs.be",
+  "personal_email": "linde.ghyselen@hotmail.com",
+  "city": "Horebeke",
+  "postal_code": "9667",
+  "quote": "Wanting to be someone else is a waste of the person you are. -Kurt Cobain-",
+  "preferred_regions": ["Oudenaarde", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flindghys_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flindghys_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flindghys_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flindghys_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flindghys.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Mirte",
+  "name": "Poelmans",
+  "username": "mirtpoel",
+  "student_number": "87722",
+  "ahs_email": "mirtpoel@student.arteveldehs.be",
+  "personal_email": "mirtepoelmans@hotmail.com",
+  "city": "Vilvoorde",
+  "postal_code": "1800",
+  "quote": "'t Is om te rotten e.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmirtpoel_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmirtpoel_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmirtpoel_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmirtpoel_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmirtpoel.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Sofie",
+  "name": "Vandycke",
+  "username": "sofivand22",
+  "student_number": "90916",
+  "ahs_email": "sofivand22@student.arteveldehs.be",
+  "city": "Ingelmunster",
+  "postal_code": "8770",
+  "preferred_regions": ["Gent"],
+  "quote": "Een beetje minder e, vlinder",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivand22_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivand22_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivand22_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivand22_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofivand22.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Lieselotte",
+  "name": "Van Tendeloo",
+  "username": "liesvant4",
+  "student_number": "89107 503529603",
+  "ahs_email": "liesvant4@student.arteveldehs.be",
+  "personal_email": "lieselottevt@hotmail.com",
+  "city": "Nijlen",
+  "postal_code": "2560",
+  "quote": "Sometimes you will never know the value of a moment until it becomes a memory",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliesvant4_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliesvant4_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliesvant4_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliesvant4_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliesvant4.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Tjörven",
+  "name": "Van Opstaele",
+  "username": "tjorvano",
+  "student_number": "85400",
+  "ahs_email": "tjorvano@student.arteveldehs.be",
+  "personal_email": "tjorven.vanopstaele@hotmail.com",
+  "city": "Ursel",
+  "postal_code": "9910",
+  "quote": "Een dag niet gelachen is een dag niet geleefd. ",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftjorvano_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftjorvano_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftjorvano_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftjorvano_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ftjorvano.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Nigel",
+  "name": "Berth",
+  "username": "nigebert",
+  "student_number": "85763",
+  "ahs_email": "nigebert@student.arteveldehs.be",
+  "personal_email": "Nigel.berth@gmail.com",
+  "city": "Eeklo",
+  "postal_code": "9900",
+  "preferred_regions": ["Brugge", "Gent"],
+  "quote": "Ja, ik ben famillie van Mr. Berth.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnigebert_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnigebert_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnigebert_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnigebert_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnigebert.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Bruno",
+  "name": "De Geyter",
+  "username": "brundege",
+  "student_number": "83096",
+  "ahs_email": "brundege@student.arteveldehs.be",
+  "personal_email": "bruno.degeyter@hotmail.com",
+  "city": "Lovendegem",
+  "postal_code": "9920",
+  "quote": "I did it!",
+  "preferred_regions": ["Gent", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbrundege_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbrundege_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbrundege_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbrundege_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbrundege.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Yasemin",
+  "name": "Küçüker",
+  "username": "yasekucu",
+  "student_number": "87485",
+  "ahs_email": "yasekucu@student.arteveldehs.be",
+  "personal_email": "yasemin.kucuker@hotmail.com",
+  "city": "Sint-Amandsberg",
+  "postal_code": "9040",
+  "quote": "Life is a soup and I am a fork",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyasekucu_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyasekucu_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyasekucu_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyasekucu_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyasekucu.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Elien",
+  "name": "Verheyen",
+  "username": "elieverh3",
+  "student_number": "84454",
+  "ahs_email": "elieverh3@student.arteveldehs.be",
+  "personal_email": "elien.verheyen@hotmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "preferred_regions": ["Gent - Brussel "],
+  "quote": "Ik ben blij da gij in mijn team zit :)",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felieverh3_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felieverh3_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felieverh3_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felieverh3_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Felieverh3.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Lien",
+  "name": "Coppens",
+  "username": "liencopp",
+  "student_number": "87793",
+  "ahs_email": "liencopp@student.arteveldehs.be",
+  "personal_email": "coppens97@gmail.com",
+  "city": "Deinze",
+  "postal_code": "9800",
+  "preferred_regions": ["Gent", "Kortrijk", "Deinze"],
+  "quote": "Screw this, I'm going to Hogwarts.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencopp_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencopp_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencopp_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencopp_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencopp.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Giel",
+  "name": "De Busschere",
+  "username": "gieldebu",
+  "student_number": "83914",
+  "ahs_email": "gieldebu@student.arteveldehs.be",
+  "personal_email": "Giel.de.busschere@gmail.com",
+  "city": "Bredene",
+  "postal_code": "8450",
+  "quote": "Wuk ist med uij moat?",
+  "preferred_regions": ["West-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgieldebu_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgieldebu_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgieldebu_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgieldebu_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgieldebu.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Arne",
+  "name": "Vroman",
+  "username": "arnevrom",
+  "student_number": "82067",
+  "ahs_email": "arnevrom@student.arteveldehs.be",
+  "personal_email": "arne.vroman@hotmail.com",
+  "city": "Heuvelland",
+  "postal_code": "8953",
+  "quote": "Greatness from small beginnings.",
+  "preferred_regions": ["Heuvelland", "Ieper", "Poperinge", "Roeselare", "Kortrijk"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnevrom_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnevrom_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnevrom_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnevrom_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnevrom.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Suzanah",
+  "name": "Theeten",
+  "username": "suzathee",
+  "student_number": "89906",
+  "ahs_email": "suzathee@student.arteveldehs.be",
+  "personal_email": "tsuzanah@gmail.com",
+  "city": "Poperinge",
+  "postal_code": "8970",
+  "quote": "Design is where science and art break even.",
+  "preferred_regions": ["West-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzathee_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzathee_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzathee_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzathee_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsuzathee.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Anton",
+  "name": "Bardyn",
+  "username": "antobard",
+  "student_number": "201694662",
+  "ahs_email": "antobard@student.arteveldehs.be",
+  "city": "Leuven",
+  "postal_code": "3000",
+  "quote": "Hard work beats talent. ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fantobard_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fantobard_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fantobard_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fantobard_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fantobard.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Nicolas",
+  "name": "Leroy",
+  "username": "nicolero1",
+  "student_number": "78987",
+  "ahs_email": "nicolero1@student.arteveldehs.be",
+  "personal_email": "Lry.nicolas@gmail.com",
+  "city": "De Pinte",
+  "postal_code": "9840",
+  "preferred_regions": ["Gent", "Kortrijk", "Waregem"],
+  "quote": "Een Orvalleken met zalmtoastjes, da mag nen alien wel ne keer geire é!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicolero1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicolero1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicolero1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicolero1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicolero1.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Gillian",
+  "name": "Vindevogel",
+  "username": "gillvind",
+  "student_number": "87453",
+  "ahs_email": "gillvind@student.arteveldehs.be",
+  "personal_email": "gillvindevogel@msn.com",
+  "city": "Oudenaarde",
+  "postal_code": "9700",
+  "preferred_regions": ["Vlaanderen"],
+  "quote": "Het komt wel goed! ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgillvind_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgillvind_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgillvind_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgillvind_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgillvind.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Gert",
+  "name": "Philips",
+  "username": "gertphil",
+  "student_number": "82545",
+  "ahs_email": "gertphil@student.arteveldehs.be",
+  "personal_email": "gertphilips@outlook.com",
+  "city": "Destelbergen",
+  "postal_code": "9070",
+  "quote": "Come what may",
+  "preferred_regions": ["Gent", "Antwerpen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgertphil_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgertphil_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgertphil_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgertphil_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fgertphil.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Julie",
+  "name": "Gauwberg",
+  "username": "juligauw",
+  "student_number": "88266",
+  "ahs_email": "juligauw@student.arteveldehs.be",
+  "personal_email": "Julie.gauwberg@gmail.com",
+  "city": "Mariakerke",
+  "postal_code": "9030",
+  "preferred_regions": ["Gent"],
+  "quote": "Who sees the human face correctly: the photographer, the mirror, or the painter? - Pablo Picasso",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjuligauw_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjuligauw_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjuligauw_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjuligauw_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjuligauw.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Nicky",
+  "name": "Silversmet",
+  "username": "nicksilv",
+  "student_number": "58395",
+  "ahs_email": "nicksilv@student.arteveldehs.be",
+  "personal_email": "nicky.silversmet@gmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "preferred_regions": ["Gent", "Antwerpen", "Brussel"],
+  "quote": "Don't give up your dreams. Keep sleeping.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicksilv_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicksilv_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicksilv_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicksilv_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnicksilv.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Neal",
+  "name": "Inghelbrecht",
+  "username": "nealingh",
+  "student_number": "201483694",
+  "ahs_email": "nealingh@student.arteveldehs.be",
+  "personal_email": "inghelbrechtneal@gmail.com",
+  "city": "Jabbeke",
+  "postal_code": "8490",
+  "quote": "Excellence is the gradual result of always striving to do better",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnealingh_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnealingh_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnealingh_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnealingh_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fnealingh.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04b"
+}, {
+  "type": "student",
+  "first_name": "Arno",
+  "name": "Van Den Bossche",
+  "username": "arnovand10",
+  "student_number": "90368",
+  "ahs_email": "arnovand10@student.arteveldehs.be",
+  "personal_email": "arnovandenbossche@gmail.com",
+  "city": "Zingem",
+  "postal_code": "9750",
+  "quote": "I don't like being quoted",
+  "preferred_regions": ["Internationaal"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnovand10_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnovand10_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnovand10_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnovand10_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Farnovand10.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Dylan",
+  "name": "Van Steirteghem",
+  "username": "dylavans",
+  "student_number": "82719",
+  "ahs_email": "dylavans@student.arteveldehs.be",
+  "personal_email": "retnikbeats@gmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "Retnik Season!!!",
+  "preferred_regions": ["Wereldwijd"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdylavans_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdylavans_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdylavans_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdylavans_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdylavans.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Sofie",
+  "name": "Vermoesen",
+  "username": "sofiverm8",
+  "student_number": "90667",
+  "ahs_email": "sofiverm8@student.arteveldehs.be",
+  "personal_email": "s.vermoesen@hotmail.com",
+  "city": "Aalst",
+  "postal_code": "9310",
+  "quote": "Go with the flow",
+  "preferred_regions": ["Europe (and beyond)"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofiverm8_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofiverm8_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofiverm8_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofiverm8_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsofiverm8.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Thomas",
+  "name": "Coppein",
+  "username": "thomcopp",
+  "student_number": "91003",
+  "ahs_email": "thomcopp@student.arteveldehs.be",
+  "personal_email": "thomas_coppein@hotmail.com",
+  "city": "Voormezele",
+  "postal_code": "8902",
+  "quote": "'t Leven is gin crèmekarre.",
+  "preferred_regions": ["West-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fthomcopp_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fthomcopp_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fthomcopp_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fthomcopp_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fthomcopp.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Bjorn",
+  "name": "Truye",
+  "username": "bjortruy",
+  "student_number": "87330",
+  "ahs_email": "bjortruy@student.arteveldehs.be",
+  "personal_email": "bjorntruye@hotmail.com",
+  "city": "Laarne",
+  "postal_code": "9270",
+  "quote": "Never underestimate the power of passion",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbjortruy_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbjortruy_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbjortruy_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbjortruy_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbjortruy.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Kim",
+  "name": "Eldarova",
+  "username": "kimeldar",
+  "student_number": "88525",
+  "ahs_email": "kimeldar@student.arteveldehs.be",
+  "personal_email": "kim.eldarova@hotmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "Ik schrijf dit vanuit een videoproductiebedrijf in Londen. als mijn luie gat dat kan, dan kan jij het ook!",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkimeldar_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkimeldar_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkimeldar_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkimeldar_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkimeldar.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Jonas",
+  "name": "De Coster",
+  "username": "jonadeco2",
+  "student_number": "85159",
+  "ahs_email": "jonadeco2@student.arteveldehs.be",
+  "personal_email": "jonas.dc@live.be",
+  "city": "Brakelsesteenweg 641 Voorde",
+  "postal_code": "9400",
+  "quote": "Will it be easy? Nope. Worth it? Absolutely.",
+  "preferred_regions": ["Gent", "Brakel", "Ninove", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonadeco2_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonadeco2_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonadeco2_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonadeco2_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonadeco2.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Lien",
+  "name": "Cardoen",
+  "username": "liencard",
+  "student_number": "90156",
+  "ahs_email": "liencard@student.arteveldehs.be",
+  "personal_email": "cardoen.lien@gmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "No one ever died from too much white space",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencard_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencard_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencard_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencard_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fliencard.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Dean",
+  "name": "De Coster",
+  "username": "deandeco",
+  "student_number": "85012",
+  "ahs_email": "deandeco@student.arteveldehs.be",
+  "personal_email": "dean.de.coster@gmail.com",
+  "city": "Roosdaal",
+  "postal_code": "1760",
+  "preferred_regions": ["Gent", "Antwerpen", "Brussel"],
+  "quote": "I did it, I graduated, now i'm smart and stuff!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdeandeco_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdeandeco_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdeandeco_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdeandeco_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdeandeco.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Anthony",
+  "name": "De Rouck",
+  "username": "anthdero",
+  "student_number": "84863",
+  "ahs_email": "anthdero@student.arteveldehs.be",
+  "personal_email": "anthony.derouck@hotmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "Be inspired by the moment",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanthdero_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanthdero_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanthdero_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanthdero_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanthdero.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Yoeri",
+  "name": "De Sloovere",
+  "username": "yoerdesl",
+  "student_number": "84468",
+  "ahs_email": "yoerdesl@student.arteveldehs.be",
+  "personal_email": "desloovereyoeri@gmail.com",
+  "city": "Machelen-Zulte",
+  "postal_code": "9870",
+  "quote": "Working hard is important, but feeling good is important too.",
+  "preferred_regions": ["Gent", "Kortrijk", "Antwerpen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyoerdesl_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyoerdesl_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyoerdesl_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyoerdesl_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fyoerdesl.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Feline",
+  "name": "Dekeyser",
+  "username": "felideke",
+  "student_number": "82044",
+  "ahs_email": "felideke@student.arteveldehs.be",
+  "personal_email": "feline.dekeyser@hotmail.com",
+  "city": "Oudenburg",
+  "postal_code": "8460",
+  "preferred_regions": ["Oostende", "Brugge", "Gent"],
+  "quote": "Min widder nohal een bitje een skete helach'n wè",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ffelideke_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ffelideke_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ffelideke_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ffelideke_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Ffelideke.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Delphine",
+  "name": "Delie",
+  "username": "delpdeli",
+  "student_number": "67323",
+  "ahs_email": "delpdeli@student.arteveldehs.be",
+  "preferred_regions": ["Regio rond Waregem", "Kortrijk "],
+  "quote": "Da we nog lang meugn meugn en goe kunnen kunnen ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdelpdeli_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdelpdeli_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdelpdeli_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdelpdeli_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fdelpdeli.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Paolo",
+  "name": "Deseure",
+  "username": "paoldese",
+  "student_number": "84605",
+  "ahs_email": "paoldese@student.arteveldehs.be",
+  "personal_email": "p.deseure@outlook.com",
+  "city": "Sint-Amandsberg ",
+  "postal_code": "9040",
+  "quote": "Tot volgend jaar! ",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpaoldese_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpaoldese_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpaoldese_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpaoldese_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fpaoldese.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Eben",
+  "name": "Laflère",
+  "username": "ebenlafl",
+  "student_number": "83012",
+  "ahs_email": "ebenlafl@student.arteveldehs.be",
+  "personal_email": "Eben.laflere@telenet.be",
+  "city": "Aalter",
+  "postal_code": "9880",
+  "preferred_regions": ["Gent", "Aalter", "Brugge", "Brussel", "Antwerpen"],
+  "quote": "If you don't succeed at first, hide all evidence that you tried",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Febenlafl_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Febenlafl_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Febenlafl_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Febenlafl_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Febenlafl.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Lien",
+  "name": "Van Ransbeeck",
+  "username": "lienvanr",
+  "student_number": "91188",
+  "ahs_email": "lienvanr@student.arteveldehs.be",
+  "personal_email": "Lien.van.ransbeeck@hotmail.com",
+  "city": "Hamme",
+  "postal_code": "9220",
+  "quote": "(F) art",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flienvanr_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flienvanr_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flienvanr_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flienvanr_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Flienvanr.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Basiel",
+  "name": "Smitz",
+  "username": "basismit",
+  "student_number": "82368 503355212",
+  "ahs_email": "basismit@student.arteveldehs.be",
+  "personal_email": "basiel.smitz@gmail.com",
+  "city": "Eeklo",
+  "postal_code": "9900",
+  "quote": "Life always finds a way",
+  "preferred_regions": ["Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbasismit_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbasismit_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbasismit_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbasismit_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbasismit.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Jonas",
+  "name": "Janzegers",
+  "username": "jonajanz",
+  "student_number": "71636",
+  "ahs_email": "jonajanz@student.arteveldehs.be",
+  "personal_email": "jonas.janzegers@gmail.com",
+  "city": "Lokeren",
+  "postal_code": "9160",
+  "quote": "I don't need a quote.",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonajanz_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonajanz_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonajanz_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonajanz_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjonajanz.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Stefanie",
+  "name": "Rondelez",
+  "username": "stefrond",
+  "student_number": "201381271",
+  "ahs_email": "stefrond@student.arteveldehs.be",
+  "personal_email": "Stefanie_rondelez_@hotmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "Intelligence is the ability to adapt to change",
+  "preferred_regions": ["Oost-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstefrond_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstefrond_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstefrond_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstefrond_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fstefrond.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Charlotte",
+  "name": "Van Schepdael",
+  "username": "charvans1",
+  "student_number": "75594",
+  "ahs_email": "charvans1@student.arteveldehs.be",
+  "personal_email": "charlottevanschepdael@hotmail.com",
+  "city": "Ninove",
+  "postal_code": "9401",
+  "quote": "Typ 'Charlotte Van Schepdael' in op LinkedIn en druk op Connectie maken. You Won’t Believe What Happens Next!",
+  "preferred_regions": ["Gent", "Aalst", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcharvans1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcharvans1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcharvans1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcharvans1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcharvans1.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Justine",
+  "name": "Blancquaert",
+  "username": "justblan1",
+  "student_number": "91518",
+  "ahs_email": "justblan1@student.arteveldehs.be",
+  "personal_email": "justine.blancquaert@gmail.com",
+  "city": "Zele",
+  "postal_code": "9240",
+  "quote": "Enjoy the silence",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjustblan1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjustblan1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjustblan1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjustblan1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjustblan1.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04b"
+}, {
+  "type": "student",
+  "first_name": "Chloë",
+  "name": "Baes",
+  "username": "chlobaes",
+  "student_number": "81951",
+  "ahs_email": "chlobaes@student.arteveldehs.be",
+  "personal_email": "chloebaes@hotmail.com",
+  "city": "Ingooigem",
+  "postal_code": "8570",
+  "quote": "Become who you are",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fchlobaes_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fchlobaes_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fchlobaes_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fchlobaes_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fchlobaes.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Mathias",
+  "name": "De Wilde",
+  "username": "mathdewi",
+  "student_number": "88876",
+  "ahs_email": "mathdewi@student.arteveldehs.be",
+  "personal_email": "dewilde.mathias@hotmail.com",
+  "city": "Lochristi",
+  "postal_code": "9080",
+  "preferred_regions": ["Oost-Vlaanderen", "Antwerpen"],
+  "quote": "Alles wa ge zelf doet, doet ge beter, maar een samenvatting van een medestudent is altijd welkom!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathdewi_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathdewi_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathdewi_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathdewi_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmathdewi.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Valery",
+  "name": "Defreyne",
+  "username": "valedefr",
+  "student_number": "82867",
+  "ahs_email": "valedefr@student.arteveldehs.be",
+  "personal_email": "Valery.defreyne@hotmail.com",
+  "city": "Steenovenstraat 5",
+  "postal_code": "8850",
+  "preferred_regions": ["Brugge ", "Kortrijk ", "Gent"],
+  "quote": "Dreams don't work unless you do",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvaledefr_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvaledefr_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvaledefr_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvaledefr_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fvaledefr.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Robbe",
+  "name": "Musschoot",
+  "username": "robbmuss",
+  "student_number": "83205",
+  "ahs_email": "robbmuss@student.arteveldehs.be",
+  "personal_email": "robbe_musschoot@hotmail",
+  "city": "Mariakerke",
+  "postal_code": "9030",
+  "quote": "Design is thinking made visual. - Saul Bass",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbmuss_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbmuss_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbmuss_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbmuss_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbmuss.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Xandrijn",
+  "name": "Verhaegen",
+  "username": "xandverh",
+  "student_number": "81858",
+  "ahs_email": "xandverh@student.arteveldehs.be",
+  "personal_email": "xandrijn.verhaegen@skynet.be",
+  "city": "Aalst",
+  "postal_code": "9300",
+  "preferred_regions": ["Aalst", "Gent"],
+  "quote": "Only the brave teach ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fxandverh_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fxandverh_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fxandverh_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fxandverh_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fxandverh.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Ananda",
+  "name": "De Sutter",
+  "username": "anandesu",
+  "student_number": "94091",
+  "ahs_email": "anandesu@student.arteveldehs.be",
+  "personal_email": "anandadesutter@gmail.com",
+  "quote": "the worst enemy to creativity is self-doubt.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanandesu_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanandesu_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanandesu_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanandesu_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fanandesu.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Lorien",
+  "name": "De Bondt",
+  "username": "loridebo",
+  "student_number": "90705",
+  "ahs_email": "loridebo@student.arteveldehs.be",
+  "personal_email": "lorien.debondt@gmail.com",
+  "city": "Aalst",
+  "postal_code": "9300",
+  "quote": "Put your hair up in a bun, drink some coffee and handle it.",
+  "preferred_regions": ["Aalst", "Lede", "Erpe-Mere", "Denderleeuw"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Floridebo_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Floridebo_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Floridebo_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Floridebo_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Floridebo.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Kevin",
+  "name": "Dossche",
+  "username": "kevidoss",
+  "student_number": "83992",
+  "ahs_email": "kevidoss@student.arteveldehs.be",
+  "personal_email": "kevin.dossche@hotmail.be",
+  "city": "Moorsel",
+  "postal_code": "9310",
+  "quote": "Lorem ipsum dolor sit amet.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevidoss_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevidoss_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevidoss_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevidoss_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevidoss.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Sarah",
+  "name": "Van Den Berghe",
+  "username": "saravand46",
+  "student_number": "90466",
+  "ahs_email": "saravand46@student.arteveldehs.be",
+  "personal_email": "sarahvandenberghe@outlook.be",
+  "city": "Ronse",
+  "postal_code": "9600",
+  "preferred_regions": ["Gent", "Kortrijk"],
+  "quote": "Much wow, such graduate, very diploma, many smart.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsaravand46_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsaravand46_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsaravand46_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsaravand46_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsaravand46.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Simon",
+  "name": "de Poorter",
+  "username": "simodepo",
+  "student_number": "83099",
+  "ahs_email": "simodepo@student.arteveldehs.be",
+  "personal_email": "simondepoorter17@hotmail.com",
+  "city": "Assenede",
+  "postal_code": "9960",
+  "quote": "Tis allemaal de schuld van de sossen",
+  "preferred_regions": ["Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimodepo_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimodepo_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimodepo_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimodepo_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsimodepo.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Matthias",
+  "name": "Seghers",
+  "username": "mattsegh1",
+  "student_number": "81092",
+  "ahs_email": "mattsegh1@student.arteveldehs.be",
+  "quote": "If you have a dream, don't wait. Act.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmattsegh1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmattsegh1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmattsegh1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmattsegh1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmattsegh1.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Mélissa",
+  "name": "Lafarque",
+  "username": "melilafa",
+  "student_number": "201696181",
+  "ahs_email": "melilafa@student.arteveldehs.be",
+  "personal_email": "melissa.lafarque@gmail.com",
+  "city": "Aalst",
+  "postal_code": "9300",
+  "preferred_regions": ["Aalst", "Denderleeuw", "Brussel", "Gent"],
+  "quote": "Adios bitchachos",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmelilafa_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmelilafa_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmelilafa_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmelilafa_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmelilafa.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Bert",
+  "name": "Lecomte",
+  "username": "bertleco",
+  "student_number": "503529760",
+  "ahs_email": "bertleco@student.arteveldehs.be",
+  "personal_email": "bert1.Lecomte@gmail.com",
+  "city": "Torhout",
+  "postal_code": "8820",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen", "Antwerpen", "Brussel"],
+  "quote": "Miaaaaauwkesssss",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertleco_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertleco_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertleco_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertleco_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbertleco.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Helena",
+  "name": "De Smedt",
+  "username": "heledesm",
+  "student_number": "88392",
+  "ahs_email": "heledesm@student.arteveldehs.be",
+  "personal_email": "helena.desmedt3@gmail.com",
+  "city": "Roosdaal",
+  "postal_code": "1760",
+  "quote": "I won't be impressed with technology until I can download food",
+  "preferred_regions": ["Brussel", "Aalst", "Gent"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fheledesm_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fheledesm_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fheledesm_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fheledesm_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fheledesm.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Maxine",
+  "name": "Libbrecht",
+  "username": "maxilibb",
+  "student_number": "89417",
+  "ahs_email": "maxilibb@student.arteveldehs.be",
+  "personal_email": "maxinelibbrecht@hotmail.com",
+  "city": "Izegem",
+  "postal_code": "8870",
+  "preferred_regions": ["Kortrijk", "Brugge", "Gent"],
+  "quote": "'t is goe",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxilibb_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxilibb_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxilibb_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxilibb_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fmaxilibb.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Céline",
+  "name": "Mouton",
+  "username": "celimout",
+  "student_number": "88091",
+  "ahs_email": "celimout@student.arteveldehs.be",
+  "personal_email": "celine.mouton@icloud.com",
+  "city": "Oudenaarde",
+  "postal_code": "9700",
+  "quote": "Friends make good times better and hard times easier",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelimout_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelimout_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelimout_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelimout_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fcelimout.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Robbe",
+  "name": "Van den Hove",
+  "username": "robbvand6",
+  "student_number": "85182",
+  "ahs_email": "robbvand6@student.arteveldehs.be",
+  "personal_email": "robbe.vandenhove96@gmail.com",
+  "city": "Beersel",
+  "postal_code": "1650",
+  "preferred_regions": ["Beersel"],
+  "quote": "To a great mind, nothing is little. ",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbvand6_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbvand6_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbvand6_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbvand6_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobbvand6.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Amber",
+  "name": "Van Hee",
+  "username": "ambevanh1",
+  "student_number": "88720",
+  "ahs_email": "ambevanh1@student.arteveldehs.be",
+  "quote": "Here I am!",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fambevanh1_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fambevanh1_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fambevanh1_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fambevanh1_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fambevanh1.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Hannes",
+  "name": "Van Hijfte",
+  "username": "hannvanh5",
+  "student_number": "78564",
+  "ahs_email": "hannvanh5@student.arteveldehs.be",
+  "personal_email": "hannesvanhijfte@live.com",
+  "city": "Sleidinge",
+  "postal_code": "9940",
+  "preferred_regions": ["Gent", "Antwerpen"],
+  "quote": "Well, dreams, they feel real while we're in them right? It's only when we wake up then we realize that something was actually strange",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannvanh5_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannvanh5_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannvanh5_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannvanh5_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fhannvanh5.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Ilona",
+  "name": "Zancaner",
+  "username": "ilonzanc",
+  "student_number": "83555",
+  "ahs_email": "ilonzanc@student.arteveldehs.be",
+  "personal_email": "zancaneri@gmail.com",
+  "city": "Mariakerke",
+  "postal_code": "9030",
+  "preferred_regions": ["Gent"],
+  "quote": "I could do this with my hands closed and my eyes behind my back.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Filonzanc_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Filonzanc_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Filonzanc_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Filonzanc_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Filonzanc.jpg?alt=media"
+  },
+  "specialization": "5a7333dad0eddd9838f18dae"
+}, {
+  "type": "student",
+  "first_name": "Sander",
+  "name": "Dooms",
+  "username": "sanddoom",
+  "student_number": "201378897",
+  "ahs_email": "sanddoom@student.arteveldehs.be",
+  "personal_email": "sander@asocialmedia.be",
+  "city": "GENT",
+  "postal_code": "9000",
+  "quote": "Mens sana in corpore sano",
+  "preferred_regions": ["Gent", "Antwerpen", "Brugge", "Brussel", "Tel Aviv", "Dubai", "Singapore", "San Francisco", "San Diego", "New York", "Londen", "Beijing", "Tokio"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsanddoom_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsanddoom_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsanddoom_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsanddoom_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fsanddoom.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Jelle",
+  "name": "Dutry",
+  "username": "jelldutr",
+  "student_number": "86934",
+  "ahs_email": "jelldutr@student.arteveldehs.be",
+  "personal_email": "jelledy@gmail.com",
+  "city": "Scheldewindeke",
+  "postal_code": "9860",
+  "quote": "1004 - Lapalux",
+  "preferred_regions": ["Oost-Vlaanderen", "Brussel"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjelldutr_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjelldutr_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjelldutr_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjelldutr_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fjelldutr.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Bebelle",
+  "name": "",
+  "username": "beberuff",
+  "student_number": "82245",
+  "ahs_email": "beberuff@student.arteveldehs.be",
+  "personal_email": "bebelleruffai@outlook.com",
+  "city": "Ertvelde",
+  "postal_code": "9940",
+  "preferred_regions": ["Gent", "Eeklo", "Evergem"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbeberuff_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbeberuff_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbeberuff_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbeberuff_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fbeberuff.jpg?alt=media"
+  },
+  "specialization": "5a9c6e33b5decd09cacda04a"
+}, {
+  "type": "student",
+  "first_name": "Kevin",
+  "name": "Tresinie",
+  "username": "kevitres",
+  "student_number": "82797",
+  "ahs_email": "kevitres@student.arteveldehs.be",
+  "personal_email": "kevin.tresinie@gmail.com",
+  "preferred_regions": ["Gent"],
+  "quote": "… en de walen",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevitres_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevitres_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevitres_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevitres_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fkevitres.jpg?alt=media"
+  },
+  "specialization": "5a733419d0eddd9838f18daf"
+}, {
+  "type": "student",
+  "first_name": "Romane",
+  "name": "Lammens",
+  "username": "romalamm",
+  "student_number": "79198-30718528",
+  "ahs_email": "romalamm@student.arteveldehs.be",
+  "personal_email": "romane_lammens@hotmail.com",
+  "city": "Gent",
+  "postal_code": "9000",
+  "quote": "Every mountain can be climbed",
+  "preferred_regions": ["Oost-vlaanderen", "Brussel", "Brugge", "Antwerpen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromalamm_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromalamm_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromalamm_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromalamm_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fromalamm.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda049"
+}, {
+  "type": "student",
+  "first_name": "Ine",
+  "name": "Roose",
+  "username": "ineroose",
+  "ahs_email": "ineroose@student.arteveldehs.be",
+  "personal_email": "ineroose06@gmail.com",
+  "city": "Loppem",
+  "postal_code": "8210",
+  "quote": "Make it simple but significant.",
+  "preferred_regions": ["West-Vlaanderen", "Oost-Vlaanderen", "Antwerpen"],
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fineroose_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fineroose_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fineroose_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fineroose_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Fineroose.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "student",
+  "first_name": "Robin",
+  "name": "Prinzie",
+  "username": "robiprin",
+  "ahs_email": "robiprin@student.arteveldehs.be",
+  "personal_email": "robin.prinzie@hotmail.com",
+  "city": "Zottegem",
+  "postal_code": "9620",
+  "quote": "The only thing I learned today is that I should have stayed at home.",
+  "picture": {
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobiprin_thumb.jpg?alt=media",
+    "sm": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobiprin_sm.jpg?alt=media",
+    "md": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobiprin_md.jpg?alt=media",
+    "lg": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobiprin_lg.jpg?alt=media",
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/student%2Frobiprin.jpg?alt=media"
+  },
+  "specialization": "5a9c6d79b5decd09cacda048"
+}, {
+  "type": "lecturer",
+  "first_name": "Kristof",
+  "name": "Raes",
+  "username": "krisra",
+  "ahs_email": "krisra@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkrisra.jpg?alt=media"
+  },
+  "quote": "It’s smart to be clever & clever to be smart."
+}, {
+  "type": "lecturer",
+  "first_name": "Luk",
+  "name": "Bouters",
+  "username": "lukbo",
+  "ahs_email": "lukbo@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flukbo.jpg?alt=media"
+  },
+  "quote": "Mochten jouw dromen in de fik staan, welke zou je redden?"
+}, {
+  "type": "lecturer",
+  "first_name": "Evelien",
+  "name": "Cochez",
+  "username": "evelco1",
+  "ahs_email": "evelco1@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fevelco1.jpg?alt=media"
+  },
+  "quote": "There is a crack in everything. That's how the light gets in. (L. Cohen)"
+}, {
+  "type": "lecturer",
+  "first_name": "Linda",
+  "name": "Bogaert",
+  "username": "lindbo",
+  "ahs_email": "lindbo@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flindbo.jpg?alt=media"
+  },
+  "quote": "The world is a book. Those who do not travel, read only one page."
+}, {
+  "type": "lecturer",
+  "first_name": "Luc",
+  "name": "Berth",
+  "username": "lucbe",
+  "ahs_email": "lucbe@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flucbe.jpg?alt=media"
+  },
+  "quote": "Een gezonde geest in een gezond lichaam."
+}, {
+  "type": "lecturer",
+  "first_name": "Dieter",
+  "name": "De Weirdt",
+  "username": "dietde2",
+  "ahs_email": "dietde2@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fdietde2.jpg?alt=media"
+  },
+  "quote": "while ( ! $success ) { $success = try(); }"
+}, {
+  "type": "lecturer",
+  "first_name": "Geert",
+  "name": "Fasseur",
+  "username": "geerfa",
+  "ahs_email": "geerfa@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fgeerfa.jpg?alt=media"
+  },
+  "quote": "Het leven kan alleen achterwaarts begrepen worden, maar het moet voorwaarts worden geleefd."
+}, {
+  "type": "lecturer",
+  "first_name": "Pieter",
+  "name": "Vandaele",
+  "username": "pietva",
+  "ahs_email": "pietva@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fpietva.jpg?alt=media"
+  },
+  "quote": "Vergeet niet voor wie je leeft."
+}, {
+  "type": "lecturer",
+  "first_name": "Katrien",
+  "name": "Vandermarcke",
+  "username": "katrva1",
+  "ahs_email": "katrva1@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkatrva1.jpg?alt=media"
+  },
+  "quote": "Alles wat je geeft, krijg je honderdvoudig terug."
+}, {
+  "type": "lecturer",
+  "first_name": "Bart",
+  "name": "Calis",
+  "username": "bartca",
+  "ahs_email": "bartca@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartca.jpg?alt=media"
+  },
+  "quote": "Print is sexy"
+}, {
+  "type": "lecturer",
+  "first_name": "Inge",
+  "name": "De Canck",
+  "username": "ingede2",
+  "ahs_email": "ingede2@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingede2.jpg?alt=media"
+  },
+  "quote": "Carpe diem"
+}, {
+  "type": "lecturer",
+  "first_name": "Olivier",
+  "name": "Parent",
+  "username": "olivpa",
+  "ahs_email": "olivpa@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Folivpa.jpg?alt=media"
+  },
+  "quote": "Expect the worst, hope for the best, take what comes."
+}, {
+  "type": "lecturer",
+  "first_name": "Eva",
+  "name": "Vande Populiere",
+  "username": "evavan",
+  "ahs_email": "evavan@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fevavan.jpg?alt=media"
+  },
+  "quote": "Do it with passion or not at all."
+}, {
+  "type": "lecturer",
+  "first_name": "Ingrid",
+  "name": "Hemelsoet",
+  "username": "ingrhe",
+  "ahs_email": "ingrhe@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingrhe.jpg?alt=media"
+  },
+  "quote": "De wereld geeft wat je de wereld geeft."
+}, {
+  "type": "lecturer",
+  "first_name": "Ariane",
+  "name": "Van de Vyver",
+  "username": "ariava",
+  "ahs_email": "ariava@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fariava.jpg?alt=media"
+  },
+  "quote": "Iedereen zei: 'Dat gaat niet.' Toen kwam er iemand die dat niet wist en die deed het gewoon"
+}, {
+  "type": "lecturer",
+  "first_name": "Sander",
+  "name": "Spek",
+  "username": "sandsp",
+  "ahs_email": "sandsp@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fsandsp.jpg?alt=media"
+  },
+  "quote": "“Don't stop believin’, hold on to the feeling” – Journey"
+}, {
+  "type": "lecturer",
+  "first_name": "Gudrun",
+  "name": "Herman",
+  "username": "gudrhe",
+  "ahs_email": "gudrhe@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fgudrhe.jpg?alt=media"
+  },
+  "quote": "Leef!"
+}, {
+  "type": "lecturer",
+  "first_name": "Ann",
+  "name": "Audenaert",
+  "username": "annaud",
+  "ahs_email": "annaud@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannaud.jpg?alt=media"
+  },
+  "quote": "Stille waters hebben diepe gronden."
+}, {
+  "type": "lecturer",
+  "first_name": "Tineke",
+  "name": "Duytschaever",
+  "username": "tinedu",
+  "ahs_email": "tinedu@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftinedu.jpg?alt=media"
+  },
+  "quote": "Life is short. Smile while you still have teeth."
+}, {
+  "type": "lecturer",
+  "first_name": "Annick",
+  "name": "Van Kerckhove",
+  "username": "annivk",
+  "ahs_email": "annivk@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannivk.jpg?alt=media"
+  },
+  "quote": "Comparison is the thief of joy."
+}, {
+  "type": "lecturer",
+  "first_name": "Ayse",
+  "name": "Aygün",
+  "username": "ayseay",
+  "ahs_email": "ayseay@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fayseay.jpg?alt=media"
+  },
+  "quote": "Let the beauty of what you love be what you do. Rumi"
+}, {
+  "type": "lecturer",
+  "first_name": "Liliana",
+  "name": "Carrillo",
+  "username": "lilica",
+  "ahs_email": "lilica@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Flilica.jpg?alt=media"
+  },
+  "quote": "Logic brings your from A to B. Imagination brings you anywhere!"
+}, {
+  "type": "lecturer",
+  "first_name": "Kimberly",
+  "name": "Van Laere",
+  "username": "kimbva",
+  "ahs_email": "kimbva@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkimbva.jpg?alt=media"
+  },
+  "quote": "Happy girls are the prettiest."
+}, {
+  "type": "lecturer",
+  "first_name": "Kristof",
+  "name": "Toppets",
+  "username": "kristo",
+  "ahs_email": "kristo@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkristo.jpg?alt=media"
+  },
+  "quote": "In der Beschränkung zeigt sich erst der Meister - J.W. von Goethe"
+}, {
+  "type": "lecturer",
+  "first_name": "Frederick",
+  "name": "Roegiers",
+  "username": "fredro1",
+  "ahs_email": "fredro1@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ffredro1.jpg?alt=media"
+  },
+  "quote": "It's better to give than to receive."
+}, {
+  "type": "lecturer",
+  "first_name": "Barend",
+  "name": "Weyens",
+  "username": "barewe",
+  "ahs_email": "barewe@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbarewe.jpg?alt=media"
+  },
+  "quote": "Analog moods Digital minds"
+}, {
+  "type": "lecturer",
+  "first_name": "Michaël",
+  "name": "Wysmans",
+  "username": "michwy",
+  "ahs_email": "michwy@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fmichwy.jpg?alt=media"
+  },
+  "quote": "Forget the mistake. Remember the lesson."
+}, {
+  "type": "lecturer",
+  "first_name": "Inge",
+  "name": "Sintobin",
+  "username": "ingesi",
+  "ahs_email": "ingesi@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fingesi.jpg?alt=media"
+  },
+  "quote": "Life is too short to waste time."
+}, {
+  "type": "lecturer",
+  "first_name": "Dieter",
+  "name": "Wullaert",
+  "username": "dietwu",
+  "ahs_email": "dietwu@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fdietwu.jpg?alt=media"
+  },
+  "quote": "Research is the fuel for your ideas"
+}, {
+  "type": "lecturer",
+  "first_name": "Jonas",
+  "name": "Pottie",
+  "username": "jonapo",
+  "ahs_email": "jonapo@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjonapo.jpg?alt=media"
+  },
+  "quote": "All your base are belong to us."
+}, {
+  "type": "lecturer",
+  "first_name": "Henk",
+  "name": "Willems",
+  "username": "henkwi",
+  "ahs_email": "henkwi@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhenkwi.jpg?alt=media"
+  },
+  "quote": "You have to become who you are."
+}, {
+  "type": "lecturer",
+  "first_name": "Johan",
+  "name": "De Loof",
+  "username": "johadl",
+  "ahs_email": "johadl@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjohadl.jpg?alt=media"
+  },
+  "quote": "Wie goed doet, goed ontmoet."
+}, {
+  "type": "lecturer",
+  "first_name": "Carine",
+  "name": "Vermeulen",
+  "username": "carive",
+  "ahs_email": "carive@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fcarive.jpg?alt=media"
+  },
+  "quote": "Curiosity about life in all of its aspects, I think, is still the secret of great creative people"
+}, {
+  "type": "lecturer",
+  "first_name": "Philippe",
+  "name": "De Pauw-Waterschoot",
+  "username": "phildp",
+  "ahs_email": "phildp@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fphildp.jpg?alt=media"
+  },
+  "quote": "Learning by doing."
+}, {
+  "type": "lecturer",
+  "first_name": "Evelien",
+  "name": "Rutsaert",
+  "username": "evelru",
+  "ahs_email": "evelru@arteveldehs.be",
+  "quote": "Een dag niet gelachen is een dag niet geleefd."
+}, {
+  "type": "lecturer",
+  "first_name": "Bart",
+  "name": "Missant",
+  "username": "bartmi",
+  "ahs_email": "bartmi@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartmi.jpg?alt=media"
+  },
+  "quote": "Wie niet in het water valt, kan niet surfen."
+}, {
+  "type": "lecturer",
+  "first_name": "Hilde",
+  "name": "Vercruysse",
+  "username": "hildvc",
+  "ahs_email": "hildvc@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhildvc.jpg?alt=media"
+  },
+  "quote": "Always look on the bright side of life"
+}, {
+  "type": "lecturer",
+  "first_name": "Nicky",
+  "name": "Malfliet",
+  "username": "nickma1",
+  "ahs_email": "nickma1@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fnickma1.jpg?alt=media"
+  },
+  "quote": "It's not enough to be up to date, be up for tomorrow!"
+}, {
+  "type": "lecturer",
+  "first_name": "Joris",
+  "name": "Thys",
+  "username": "jorith",
+  "ahs_email": "jorith@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjorith.jpg?alt=media"
+  },
+  "quote": "Alles komt wel goed!"
+}, {
+  "type": "lecturer",
+  "first_name": "Annick",
+  "name": "De Laender",
+  "username": "annidl",
+  "ahs_email": "annidl@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fannidl.jpg?alt=media"
+  },
+  "quote": "A lion doesn't sleep over the opinion of sheep."
+}, {
+  "type": "lecturer",
+  "first_name": "Bart",
+  "name": "Verstappen",
+  "username": "bartve3",
+  "ahs_email": "bartve3@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fbartve3.jpg?alt=media"
+  },
+  "quote": "Geen enkele ervaring is voor niets."
+}, {
+  "type": "lecturer",
+  "first_name": "Hans",
+  "name": "Temmerman",
+  "username": "hanste",
+  "ahs_email": "hanste@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fhanste.jpg?alt=media"
+  },
+  "quote": "Three decades of more dreaming and less sleeping."
+}, {
+  "type": "lecturer",
+  "first_name": "Jan",
+  "name": "Scheirlinckx",
+  "username": "jansch",
+  "ahs_email": "jansch@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjansch.jpg?alt=media"
+  },
+  "quote": "Er is een verschil tussen open-minded en een gat in uw hoofd."
+}, {
+  "type": "lecturer",
+  "first_name": "Saskia",
+  "name": "Callens",
+  "username": "saskca",
+  "ahs_email": "saskca@arteveldehs.be",
+  "quote": "Be a flamingo in a flock of pigeons."
+}, {
+  "type": "lecturer",
+  "first_name": "Jeroen",
+  "name": "Braeckman",
+  "username": "jerobr",
+  "ahs_email": "jerobr@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjerobr.jpg?alt=media"
+  },
+  "quote": "Less is more"
+}, {
+  "type": "lecturer",
+  "first_name": "Maarten",
+  "name": "Leenknecht",
+  "username": "maarle",
+  "ahs_email": "maarle@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fmaarle.jpg?alt=media"
+  },
+  "quote": "Act, don’t react."
+}, {
+  "type": "lecturer",
+  "first_name": "Joris",
+  "name": "Verniest",
+  "username": "jorive1",
+  "ahs_email": "jorive1@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjorive1.jpg?alt=media"
+  },
+  "quote": "Make it sound!"
+}, {
+  "type": "lecturer",
+  "first_name": "Karen",
+  "name": "D'Haeseleer",
+  "username": "karedh",
+  "ahs_email": "karedh@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fkaredh.jpg?alt=media"
+  },
+  "quote": "Never be afraid to climb a tree or run through the sprinklers."
+}, {
+  "type": "lecturer",
+  "first_name": "Tom",
+  "name": "Neuttiens",
+  "username": "tomne",
+  "ahs_email": "tomne@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftomne.jpg?alt=media"
+  },
+  "quote": "Always think in 3 dimensions."
+}, {
+  "type": "lecturer",
+  "first_name": "Jan",
+  "name": "De Meyer",
+  "username": "johade",
+  "ahs_email": "johade@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fjohade.jpg?alt=media"
+  },
+  "quote": "Wees jezelf."
+}, {
+  "type": "lecturer",
+  "first_name": "Christel",
+  "name": "De Maeyer",
+  "username": "chride1",
+  "ahs_email": "chride1@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Fchride1.jpg?alt=media"
+  },
+  "quote": "We've got to go, where do we go? I don't know but we just got to go -Jack Kerouac"
+}, {
+  "type": "lecturer",
+  "first_name": "Tine",
+  "name": "Vancoillie",
+  "username": "tineva1",
+  "ahs_email": "tineva1@arteveldehs.be",
+  "picture": {
+    "original": "https://firebasestorage.googleapis.com/v0/b/gdmgent-trots.appspot.com/o/lecturer%2Ftineva1.jpg?alt=media"
+  },
+  "quote": "If you stumble make it part of the dance."
+}]

@@ -1,0 +1,22 @@
+[{
+	"_id":{
+		"$oid": "5a73338ad0eddd9838f18dad"
+	},
+  "name": "Multimediaproduction",
+  "abbreviation": "MMP",
+  "description": "Creators of multimedia such as stunning videos and beautiful websites"
+}, {
+	"_id":{
+		"$oid": "5a9c6ca4b5decd09cacda046"
+	},
+  "name": "Crossmedia-ontwerp",
+  "abbreviation": "CMO",
+  "description": "Creators of multimedia such as stunning videos and beautiful websites"
+}, {
+	"_id":{
+		"$oid": "5a9c6ca4b5decd09cacda047"
+	},
+  "name": "Grafimediabeleid",
+  "abbreviation": "GMB",
+  "description": "The perfect mix of creative entrepreneurship and innovative communication."
+}]

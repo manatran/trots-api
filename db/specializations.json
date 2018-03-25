@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5a7333dad0eddd9838f18dae"
+  },
+  "name": "New Media Development",
+  "abbreviation": "NMD",
+  "description": "Internet gurus writing elegant code",
+  "option": "5a73338ad0eddd9838f18dad"
+}, {
+  "_id": {
+    "$oid": "5a733419d0eddd9838f18daf"
+  },
+  "name": "Audiovisual Design",
+  "abbreviation": "AVD",
+  "description": "Visual geniuses producing cinematographic masterpieces",
+  "option": "5a73338ad0eddd9838f18dad"
+}, {
+  "_id": {
+    "$oid": "5a9c6d79b5decd09cacda048"
+  },
+  "name": "Photo Design",
+  "abbreviation": "PD",
+  "description": "A love for the creative mix between photography and graphic design.",
+  "option": "5a9c6ca4b5decd09cacda046"
+}, {
+  "_id": {
+    "$oid": "5a9c6d79b5decd09cacda049"
+  },
+  "name": "Graphic Design",
+  "abbreviation": "GD",
+  "description": "Creative minds with a will to create original and high quality work.",
+  "option": "5a9c6ca4b5decd09cacda046"
+}, {
+  "_id": {
+    "$oid": "5a9c6e33b5decd09cacda04a"
+  },
+  "name": "Crossmedia",
+  "abbreviation": "CM",
+  "description": "Marketeers and creative entrepreneurs with a solid knowledge of technical print.",
+  "option": "5a9c6ca4b5decd09cacda047"
+}, {
+  "_id": {
+    "$oid": "5a9c6e33b5decd09cacda04b"
+  },
+  "name": "Printmedia",
+  "abbreviation": "PM",
+  "description": "Discovering the technical aspect of printproduction.",
+  "option": "5a9c6ca4b5decd09cacda047"
+}]

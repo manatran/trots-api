@@ -50,15 +50,7 @@ const userSchema = mongoose.Schema({
   specialization: {
     type: String, // Have to use String or query by Specialization doesn't work
     ref: 'Specialization',
-  },
-  tags: [{
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'Tag',
-  }],
-  social_media: [{
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'SocialMedia',
-  }],
+  }
 });
 
 const User = module.exports = mongoose.model('User', userSchema);

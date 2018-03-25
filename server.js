@@ -10,7 +10,7 @@ require('dotenv').config();
 
 // Settings
 const port = process.env.PORT || 5000;
-const mongodbUrl = process.env.MONGODB_URL || 'mongodb://localhost/trots';
+const mongodbUrl = process.env.MONGODB_URL || 'mongodb://manaus_t:FWMnADCY@ds121889.mlab.com:21889/gdm-gent';
 
 // Mongoose
 mongoose.Promise = global.Promise;

@@ -6,13 +6,8 @@ import bcrypt from 'bcryptjs';
 import mongoose from 'mongoose';
 
 // Related schemas
-import City from '../models/city.model';
 import Specialization from '../models/specialization.model';
-import Tag from '../models/tag.model';
-import SocialMedia from '../models/socialmedia.model';
 import Option from '../models/option.model';
-
-//const ObjectId = mongoose.Types.ObjectId();
 
 /**
  * Get all users
@@ -21,7 +16,7 @@ import Option from '../models/option.model';
  * @returns void
  */
 function getUsers(req, res) {
-  User.find().populate(['hometown', 'specialization', 'tags', 'social_media']).populate({
+  User.find().populate(['specialization']).populate({
       path: 'specialization',
       populate: {
         path: 'option',
@@ -50,7 +45,7 @@ module.exports.getUsers = getUsers;
 function getUserById(req, res) {
   User.findOne({
       _id: req.params.id,
-    }).populate(['hometown', 'specialization', 'tags', 'social_media', 'option']).populate({
+    }).populate(['specialization']).populate({
       path: 'specialization',
       populate: {
         path: 'option',
@@ -77,7 +72,7 @@ module.exports.getUserById = getUserById;
 function getUsersByType(req, res) {
   User.find({
       type: req.params.type,
-    }).populate(['hometown', 'specialization', 'tags', 'social_media', 'option']).populate({
+    }).populate(['specialization']).populate({
       path: 'specialization',
       populate: {
         path: 'option',
@@ -105,7 +100,7 @@ module.exports.getUsersByType = getUsersByType;
 function getUsersBySpecialization(req, res) {
   User.find({
 		specialization: req.params.specialization,
-    }).populate(['hometown', 'specialization', 'tags', 'social_media', 'option']).populate({
+    }).populate(['specialization']).populate({
       path: 'specialization',
       populate: {
         path: 'option',
